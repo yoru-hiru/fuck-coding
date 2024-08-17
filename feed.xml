@@ -3,12 +3,37 @@
     <title>编程者</title>
     <link href="https://yoru-hiru.github.io/fuck-coding/feed.xml" rel="self" />
     <link href="https://yoru-hiru.github.io/fuck-coding" />
-    <updated>2024-08-17T00:29:52+08:00</updated>
+    <updated>2024-08-17T17:59:03+08:00</updated>
     <author>
         <name>Yoruhiru</name>
     </author>
     <id>https://yoru-hiru.github.io/fuck-coding</id>
 
+    <entry>
+        <title>基础</title>
+        <author>
+            <name>Yoruhiru</name>
+        </author>
+        <link href="https://yoru-hiru.github.io/fuck-coding/ji-chu.html"/>
+        <id>https://yoru-hiru.github.io/fuck-coding/ji-chu.html</id>
+
+        <updated>2024-08-17T17:57:31+08:00</updated>
+            <summary>
+                <![CDATA[
+                    计算机原理 编程语言 数据结构 算法 网络 操作系统
+                ]]>
+            </summary>
+        <content type="html">
+            <![CDATA[
+                <h2>计算机原理</h2>
+<h2>编程语言</h2>
+<h2>数据结构</h2>
+<h2>算法</h2>
+<h2>网络</h2>
+<h2>操作系统</h2>
+            ]]>
+        </content>
+    </entry>
     <entry>
         <title>架构</title>
         <author>
@@ -40,14 +65,20 @@
         <updated>2024-08-17T00:21:20+08:00</updated>
             <summary>
                 <![CDATA[
-                    前端 后端 数据
+                    前端 后端 API 搜索引擎 消息队列 关系 非关系 实时
                 ]]>
             </summary>
         <content type="html">
             <![CDATA[
                 <h2>前端</h2>
 <h2>后端</h2>
+<p>API</p>
+<p>搜索引擎</p>
+<p>消息队列</p>
 <h2>数据</h2>
+<p>关系</p>
+<p>非关系</p>
+<p>实时</p>
             ]]>
         </content>
     </entry>
