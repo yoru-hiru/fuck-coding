@@ -10,6 +10,34 @@
     },
     "items": [
         {
+            "id": "https://yoru-hiru.github.io/fuck-coding/jia-gou-jue-ce.html",
+            "url": "https://yoru-hiru.github.io/fuck-coding/jia-gou-jue-ce.html",
+            "title": "架构决策",
+            "summary": "因素 功能 非功能 功能质量 可靠性 软件工作是否一致 用户友好性 是否有效利用资源 修复或更新系统的简易程度",
+            "content_html": "<h2>因素</h2>\n<h3>功能</h3>\n<h3>非功能</h3>\n<h4>功能质量</h4>\n<h4>可靠性</h4>\n<p>软件工作是否一致</p>\n<h4>可用性</h4>\n<p>用户友好性</p>\n<h4>效率</h4>\n<p>是否有效利用资源</p>\n<h4>可维护性</h4>\n<p>修复或更新系统的简易程度</p>\n<h4>可拓展性</h4>\n<h3>限制</h3>\n<h4>法律</h4>\n<h4>标准</h4>\n<h4>成本</h4>\n<h4>时间</h4>\n<h4>团队</h4>\n<h2>原则</h2>\n<p> </p>",
+            "author": {
+                "name": "Yoruhiru"
+            },
+            "tags": [
+            ],
+            "date_published": "2024-08-18T18:55:50+08:00",
+            "date_modified": "2024-08-18T19:26:46+08:00"
+        },
+        {
+            "id": "https://yoru-hiru.github.io/fuck-coding/jia-gou-mo-shi.html",
+            "url": "https://yoru-hiru.github.io/fuck-coding/jia-gou-mo-shi.html",
+            "title": "架构模式",
+            "summary": "专注点 沟通 单个应用 单个团队内部 满足业务的单个或多个应用 多个团队之间 多种解决方案 整个组织 企业层级 UML 语言 选择类、接口、函数和职责 使用特定组件和模块",
+            "content_html": "<table style=\"border-collapse: collapse; width: 100%; height: 150.062px;\" border=\"1\">\n<tbody>\n<tr style=\"height: 50.0208px;\">\n<td style=\"width: 33.3007%; height: 50.0208px;\"> </td>\n<td style=\"width: 33.3007%; height: 50.0208px;\">专注点</td>\n<td style=\"width: 33.3037%; height: 50.0208px;\">沟通</td>\n</tr>\n<tr style=\"height: 50.0208px;\">\n<td style=\"width: 33.3007%; height: 50.0208px;\"> </td>\n<td style=\"width: 33.3007%; height: 50.0208px;\">单个应用</td>\n<td style=\"width: 33.3037%; height: 50.0208px;\">单个团队内部</td>\n</tr>\n<tr style=\"height: 50.0208px;\">\n<td style=\"width: 33.3007%; height: 50.0208px;\"> </td>\n<td style=\"width: 33.3007%; height: 50.0208px;\">满足业务的单个或多个应用</td>\n<td style=\"width: 33.3037%; height: 50.0208px;\">多个团队之间</td>\n</tr>\n<tr>\n<td style=\"width: 33.3007%;\"> </td>\n<td style=\"width: 33.3007%;\">多种解决方案</td>\n<td style=\"width: 33.3037%;\">整个组织</td>\n</tr>\n</tbody>\n</table>\n<h2>企业层级</h2>\n<p>UML</p>\n<p>语言</p>\n<h2>方案层级</h2>\n<h2>应用层级</h2>\n<h3>代码</h3>\n<p>选择类、接口、函数和职责</p>\n<p>使用特定组件和模块</p>\n<p> </p>\n<p> </p>\n<p> </p>",
+            "author": {
+                "name": "Yoruhiru"
+            },
+            "tags": [
+            ],
+            "date_published": "2024-08-18T18:51:41+08:00",
+            "date_modified": "2024-08-19T03:57:21+08:00"
+        },
+        {
             "id": "https://yoru-hiru.github.io/fuck-coding/ji-chu.html",
             "url": "https://yoru-hiru.github.io/fuck-coding/ji-chu.html",
             "title": "基础",
