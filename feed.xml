@@ -3,12 +3,285 @@
     <title>编程者</title>
     <link href="https://yoru-hiru.github.io/fuck-coding/feed.xml" rel="self" />
     <link href="https://yoru-hiru.github.io/fuck-coding" />
-    <updated>2024-08-19T03:57:21+08:00</updated>
+    <updated>2024-08-21T00:35:29+08:00</updated>
     <author>
         <name>Yoruhiru</name>
     </author>
     <id>https://yoru-hiru.github.io/fuck-coding</id>
 
+    <entry>
+        <title>设计组件</title>
+        <author>
+            <name>Yoruhiru</name>
+        </author>
+        <link href="https://yoru-hiru.github.io/fuck-coding/she-ji-zu-jian.html"/>
+        <id>https://yoru-hiru.github.io/fuck-coding/she-ji-zu-jian.html</id>
+
+        <updated>2024-08-20T18:58:13+08:00</updated>
+            <summary>
+                <![CDATA[
+                    头像 横幅 徽章 按钮 卡片 轮播 下拉菜单 图标 输入复选 输入文本 输入开关 选择 文本域 输入单选 列表 加载指示器 模态框 选项卡 吐司 工具提示
+                ]]>
+            </summary>
+        <content type="html">
+            <![CDATA[
+                <ul>
+<li>头像</li>
+<li>横幅</li>
+<li>徽章</li>
+<li>按钮</li>
+<li>卡片</li>
+<li>轮播</li>
+<li>下拉菜单</li>
+<li>图标</li>
+<li>输入复选</li>
+<li>输入文本</li>
+<li>输入开关</li>
+<li>选择</li>
+<li>文本域</li>
+<li>输入单选</li>
+<li>列表</li>
+<li>加载指示器</li>
+<li>模态框</li>
+<li>选项卡</li>
+<li>吐司</li>
+<li>工具提示</li>
+</ul>
+            ]]>
+        </content>
+    </entry>
+    <entry>
+        <title>设计 Token</title>
+        <author>
+            <name>Yoruhiru</name>
+        </author>
+        <link href="https://yoru-hiru.github.io/fuck-coding/she-ji-token.html"/>
+        <id>https://yoru-hiru.github.io/fuck-coding/she-ji-token.html</id>
+
+        <updated>2024-08-20T18:57:59+08:00</updated>
+            <summary>
+                <![CDATA[
+                    布局 颜色 版式 图标
+                ]]>
+            </summary>
+        <content type="html">
+            <![CDATA[
+                <div class="post__toc">
+<h3>目录</h3>
+<ul>
+<li><a href="#mcetoc_1i5n6nvg22kh">布局</a></li>
+<li><a href="#mcetoc_1i5n6nvg22ki">颜色</a></li>
+<li><a href="#mcetoc_1i5n6nvg22kj">版式</a></li>
+<li><a href="#mcetoc_1i5n6nvg22kk">图标</a></li>
+</ul>
+</div>
+<h2 id="mcetoc_1i5n6nvg22kh">布局</h2>
+<h2 id="mcetoc_1i5n6nvg22ki">颜色</h2>
+<h2 id="mcetoc_1i5n6nvg22kj">版式</h2>
+<h2 id="mcetoc_1i5n6nvg22kk">图标</h2>
+            ]]>
+        </content>
+    </entry>
+    <entry>
+        <title>设计语言</title>
+        <author>
+            <name>Yoruhiru</name>
+        </author>
+        <link href="https://yoru-hiru.github.io/fuck-coding/jie-mian.html"/>
+        <id>https://yoru-hiru.github.io/fuck-coding/jie-mian.html</id>
+
+        <updated>2024-08-20T14:46:48+08:00</updated>
+            <summary>
+                <![CDATA[
+                    指南 无障碍 用户引导 缩微指南 品牌 写作指南 语气 术语 设计原则 愿景 Logo 单色版 小型使用指南 放置与清理指导 使用指导 多种文件格式 工具 设计 开发 项目管理 任务管理 路线图 里程碑 工单 沟通&hellip;
+                ]]>
+            </summary>
+        <content type="html">
+            <![CDATA[
+                <div class="post__toc">
+<h3>目录</h3>
+<ul>
+<li><a href="#mcetoc_1i5n6nvg22kd">指南</a></li>
+<li><a href="#mcetoc_1i5n6nvg22ke">品牌</a></li>
+<li><a href="#mcetoc_1i5n6nvg22kf">Logo</a></li>
+<li><a href="#mcetoc_1i5n6nvg22km">工具</a>
+<ul>
+<li><a href="#mcetoc_1i5n6nvg22kn">设计</a></li>
+<li><a href="#mcetoc_1i5n6nvg22ko">开发</a></li>
+</ul>
+</li>
+<li><a href="#mcetoc_1i5n6nvg22kp">项目管理</a>
+<ul>
+<li><a href="#mcetoc_1i5n6nvg22kq">任务管理</a></li>
+<li><a href="#mcetoc_1i5n6nvg22kr">沟通</a></li>
+<li><a href="#mcetoc_1i5n6nvg22ks">分析</a></li>
+</ul>
+</li>
+</ul>
+</div>
+<h2 id="mcetoc_1i5n6nvg22kd">指南</h2>
+<p>无障碍</p>
+<p>用户引导</p>
+<p>缩微指南</p>
+<h2 id="mcetoc_1i5n6nvg22ke">品牌</h2>
+<h3>写作指南</h3>
+<h3>语气</h3>
+<h3>术语</h3>
+<h3>设计原则</h3>
+<h3>愿景</h3>
+<h2 id="mcetoc_1i5n6nvg22kf">Logo</h2>
+<h3>单色版</h3>
+<h3>小型使用指南</h3>
+<h3>放置与清理指导</h3>
+<h3>使用指导</h3>
+<h3>多种文件格式</h3>
+<h2 id="mcetoc_1i5n6nvg22km">工具</h2>
+<h3 id="mcetoc_1i5n6nvg22kn">设计</h3>
+<h3 id="mcetoc_1i5n6nvg22ko">开发</h3>
+<h2 id="mcetoc_1i5n6nvg22kp">项目管理</h2>
+<h3 id="mcetoc_1i5n6nvg22kq">任务管理</h3>
+<ul>
+<li>路线图</li>
+<li>里程碑</li>
+<li>工单</li>
+</ul>
+<h3 id="mcetoc_1i5n6nvg22kr">沟通</h3>
+<h3 id="mcetoc_1i5n6nvg22ks">分析</h3>
+<ul>
+<li>组件分析</li>
+<li>错误日志</li>
+<li>工具分析</li>
+<li>服务与健康指标</li>
+</ul>
+            ]]>
+        </content>
+    </entry>
+    <entry>
+        <title>用户体验</title>
+        <author>
+            <name>Yoruhiru</name>
+        </author>
+        <link href="https://yoru-hiru.github.io/fuck-coding/yong-hu-ti-yan.html"/>
+        <id>https://yoru-hiru.github.io/fuck-coding/yong-hu-ti-yan.html</id>
+
+        <updated>2024-08-19T19:15:46+08:00</updated>
+            <summary>
+                <![CDATA[
+                    决策 因素 认知偏差 情绪 信息过载 模型 补偿模型 非补偿模型 满意模型 原则 渐进式披露 认知辅助 反馈 默认值 行为改变策略 理解产品 概念设计 原型 最佳实践 衡量 指标 用户满意度 通过以下方式收集反馈 调查 评级&hellip;
+                ]]>
+            </summary>
+        <content type="html">
+            <![CDATA[
+                <div class="post__toc">
+<h3>目录</h3>
+<ul>
+<li><a href="#mcetoc_1i5l54u0jt5">决策</a>
+<ul>
+<li><a href="#mcetoc_1i5l57kactc">因素</a>
+<ul>
+<li><a href="#mcetoc_1i5l57kactd">认知偏差</a></li>
+<li><a href="#mcetoc_1i5l57kacte">情绪</a></li>
+<li><a href="#mcetoc_1i5l57kactf">信息过载</a></li>
+</ul>
+</li>
+<li><a href="#mcetoc_1i5l57t64th">模型</a>
+<ul>
+<li><a href="#mcetoc_1i5l59n8ftp">补偿模型</a></li>
+<li><a href="#mcetoc_1i5l59n8ftq">非补偿模型</a></li>
+<li><a href="#mcetoc_1i5l59n8ftr">满意模型</a></li>
+</ul>
+</li>
+<li><a href="#mcetoc_1i5l5blrpuc">原则</a>
+<ul>
+<li><a href="#mcetoc_1i5l5blrpud">渐进式披露</a></li>
+<li><a href="#mcetoc_1i5l5blrpue">认知辅助</a></li>
+<li><a href="#mcetoc_1i5l5blrpuf">反馈</a></li>
+<li><a href="#mcetoc_1i5l5l579vp">默认值</a></li>
+</ul>
+</li>
+</ul>
+</li>
+<li><a href="#mcetoc_1i5l59n8fts">行为改变策略</a></li>
+<li><a href="#mcetoc_1i5l5l579vq">理解产品</a></li>
+<li><a href="#mcetoc_1i5l5l579vr">概念设计</a></li>
+<li><a href="#mcetoc_1i5l5l579vs">原型</a></li>
+<li><a href="#mcetoc_1i5l5l579vt">最佳实践</a></li>
+<li><a href="#mcetoc_1i5l5l579vu">衡量</a>
+<ul>
+<li><a href="#mcetoc_1i5lom4dv1bi">指标</a>
+<ul>
+<li><a href="#mcetoc_1i5lom4dv1bj">用户满意度</a></li>
+<li><a href="#mcetoc_1i5lom4dv1bk">任务完成</a></li>
+<li><a href="#mcetoc_1i5lom4dv1bl">完成时间</a></li>
+<li><a href="#mcetoc_1i5lom4dv1bm">错误率</a></li>
+<li><a href="#mcetoc_1i5lom4dv1bn">转化率</a></li>
+</ul>
+</li>
+<li><a href="#mcetoc_1i5lom4dv1bo">方法</a>
+<ul>
+<li><a href="#mcetoc_1i5lom4dv1bp">可用性测试</a></li>
+<li><a href="#mcetoc_1i5lom4dv1bq">A/B测试</a></li>
+<li><a href="#mcetoc_1i5lom4dv1br">热图</a></li>
+<li><a href="#mcetoc_1i5lom4dv1bs">调查与访谈</a></li>
+</ul>
+</li>
+<li><a href="#mcetoc_1i5lom4dv1bt">工具</a>
+<ul>
+<li><a href="#mcetoc_1i5lom4dv1bu">Google Analytics</a></li>
+<li><a href="#mcetoc_1i5lom4dv1bv">Hotjar</a></li>
+<li><a href="#mcetoc_1i5lom4dv1c0">Optimizely</a></li>
+<li><a href="#mcetoc_1i5lom4dv1c1">UsabilityHub</a></li>
+</ul>
+</li>
+</ul>
+</li>
+</ul>
+</div>
+<h2 id="mcetoc_1i5l54u0jt5">决策</h2>
+<h3 id="mcetoc_1i5l57kactc">因素</h3>
+<h4 id="mcetoc_1i5l57kactd">认知偏差</h4>
+<h4 id="mcetoc_1i5l57kacte">情绪</h4>
+<h4 id="mcetoc_1i5l57kactf">信息过载</h4>
+<h3 id="mcetoc_1i5l57t64th">模型</h3>
+<h4 id="mcetoc_1i5l59n8ftp">补偿模型</h4>
+<h4 id="mcetoc_1i5l59n8ftq">非补偿模型</h4>
+<h4 id="mcetoc_1i5l59n8ftr">满意模型</h4>
+<h3 id="mcetoc_1i5l5blrpuc">原则</h3>
+<h4 id="mcetoc_1i5l5blrpud">渐进式披露</h4>
+<h4 id="mcetoc_1i5l5blrpue">认知辅助</h4>
+<h4 id="mcetoc_1i5l5blrpuf">反馈</h4>
+<h4 id="mcetoc_1i5l5l579vp">默认值</h4>
+<h2 id="mcetoc_1i5l59n8fts">行为改变策略</h2>
+<h2 id="mcetoc_1i5l5l579vq">理解产品</h2>
+<h2 id="mcetoc_1i5l5l579vr">概念设计</h2>
+<h2 id="mcetoc_1i5l5l579vs">原型</h2>
+<h2 id="mcetoc_1i5l5l579vt">最佳实践</h2>
+<h2 id="mcetoc_1i5l5l579vu">衡量</h2>
+<h3 id="mcetoc_1i5lom4dv1bi">指标</h3>
+<h4 id="mcetoc_1i5lom4dv1bj">用户满意度</h4>
+<p>通过以下方式收集反馈</p>
+<ul>
+<li>调查</li>
+<li>评级</li>
+<li>访谈</li>
+</ul>
+<h4 id="mcetoc_1i5lom4dv1bk">任务完成</h4>
+<h4 id="mcetoc_1i5lom4dv1bl">完成时间</h4>
+<h4 id="mcetoc_1i5lom4dv1bm">错误率</h4>
+<h4 id="mcetoc_1i5lom4dv1bn">转化率</h4>
+<h3 id="mcetoc_1i5lom4dv1bo">方法</h3>
+<h4 id="mcetoc_1i5lom4dv1bp">可用性测试</h4>
+<h4 id="mcetoc_1i5lom4dv1bq">A/B测试</h4>
+<h4 id="mcetoc_1i5lom4dv1br">热图</h4>
+<h4 id="mcetoc_1i5lom4dv1bs">调查与访谈</h4>
+<h3 id="mcetoc_1i5lom4dv1bt">工具</h3>
+<h4 id="mcetoc_1i5lom4dv1bu"><strong data-immersive-translate-walked="cf3e27b6-66e2-4aba-86b5-23ceca409af8">Google Analytics</strong></h4>
+<h4 id="mcetoc_1i5lom4dv1bv"><strong data-immersive-translate-walked="cf3e27b6-66e2-4aba-86b5-23ceca409af8">Hotjar</strong></h4>
+<h4 id="mcetoc_1i5lom4dv1c0"><strong data-immersive-translate-walked="cf3e27b6-66e2-4aba-86b5-23ceca409af8">Optimizely</strong></h4>
+<h4 id="mcetoc_1i5lom4dv1c1"><strong data-immersive-translate-walked="cf3e27b6-66e2-4aba-86b5-23ceca409af8">UsabilityHub</strong></h4>
+            ]]>
+        </content>
+    </entry>
     <entry>
         <title>架构决策</title>
         <author>
@@ -25,26 +298,56 @@
             </summary>
         <content type="html">
             <![CDATA[
-                <h2>因素</h2>
-<h3>功能</h3>
-<h3>非功能</h3>
-<h4>功能质量</h4>
-<h4>可靠性</h4>
+                <div class="post__toc">
+<h3>目录</h3>
+<ul>
+<li><a href="#mcetoc_1i5l4tp7ls3">因素</a>
+<ul>
+<li><a href="#mcetoc_1i5l4tp7ls4">功能</a></li>
+<li><a href="#mcetoc_1i5l4tp7ls5">非功能</a>
+<ul>
+<li><a href="#mcetoc_1i5l4tp7ls6">功能质量</a></li>
+<li><a href="#mcetoc_1i5l4tp7ls7">可靠性</a></li>
+<li><a href="#mcetoc_1i5l4tp7ls8">可用性</a></li>
+<li><a href="#mcetoc_1i5l4tp7ls9">效率</a></li>
+<li><a href="#mcetoc_1i5l4tp7lsa">可维护性</a></li>
+<li><a href="#mcetoc_1i5l4tp7lsb">可拓展性</a></li>
+</ul>
+</li>
+<li><a href="#mcetoc_1i5l4tp7lsc">限制</a>
+<ul>
+<li><a href="#mcetoc_1i5l4tp7lsd">法律</a></li>
+<li><a href="#mcetoc_1i5l4tp7lse">标准</a></li>
+<li><a href="#mcetoc_1i5l4tp7lsf">成本</a></li>
+<li><a href="#mcetoc_1i5l4tp7lsg">时间</a></li>
+<li><a href="#mcetoc_1i5l4tp7lsh">团队</a></li>
+</ul>
+</li>
+</ul>
+</li>
+<li><a href="#mcetoc_1i5l4tp7lsi">原则</a></li>
+</ul>
+</div>
+<h2 id="mcetoc_1i5l4tp7ls3">因素</h2>
+<h3 id="mcetoc_1i5l4tp7ls4">功能</h3>
+<h3 id="mcetoc_1i5l4tp7ls5">非功能</h3>
+<h4 id="mcetoc_1i5l4tp7ls6">功能质量</h4>
+<h4 id="mcetoc_1i5l4tp7ls7">可靠性</h4>
 <p>软件工作是否一致</p>
-<h4>可用性</h4>
+<h4 id="mcetoc_1i5l4tp7ls8">可用性</h4>
 <p>用户友好性</p>
-<h4>效率</h4>
+<h4 id="mcetoc_1i5l4tp7ls9">效率</h4>
 <p>是否有效利用资源</p>
-<h4>可维护性</h4>
+<h4 id="mcetoc_1i5l4tp7lsa">可维护性</h4>
 <p>修复或更新系统的简易程度</p>
-<h4>可拓展性</h4>
-<h3>限制</h3>
-<h4>法律</h4>
-<h4>标准</h4>
-<h4>成本</h4>
-<h4>时间</h4>
-<h4>团队</h4>
-<h2>原则</h2>
+<h4 id="mcetoc_1i5l4tp7lsb">可拓展性</h4>
+<h3 id="mcetoc_1i5l4tp7lsc">限制</h3>
+<h4 id="mcetoc_1i5l4tp7lsd">法律</h4>
+<h4 id="mcetoc_1i5l4tp7lse">标准</h4>
+<h4 id="mcetoc_1i5l4tp7lsf">成本</h4>
+<h4 id="mcetoc_1i5l4tp7lsg">时间</h4>
+<h4 id="mcetoc_1i5l4tp7lsh">团队</h4>
+<h2 id="mcetoc_1i5l4tp7lsi">原则</h2>
 <p> </p>
             ]]>
         </content>
@@ -60,12 +363,24 @@
         <updated>2024-08-18T18:51:41+08:00</updated>
             <summary>
                 <![CDATA[
-                    专注点 沟通 单个应用 单个团队内部 满足业务的单个或多个应用 多个团队之间 多种解决方案 整个组织 企业层级 UML 语言 选择类、接口、函数和职责 使用特定组件和模块
+                    专注点 沟通 单个应用 单个团队内部 满足业务的单个或多个应用 多个团队之间 多种解决方案 整个组织 企业层级 技术栈 UML 语言 选择类、接口、函数和职责 使用特定组件和模块
                 ]]>
             </summary>
         <content type="html">
             <![CDATA[
-                <table style="border-collapse: collapse; width: 100%; height: 150.062px;" border="1">
+                <div class="post__toc">
+<h3>目录</h3>
+<ul>
+<li><a href="#mcetoc_1i5l4u6ubsv">企业层级</a></li>
+<li><a href="#mcetoc_1i5l4u6ubt0">方案层级</a></li>
+<li><a href="#mcetoc_1i5l4u6ubt1">应用层级</a>
+<ul>
+<li><a href="#mcetoc_1i5l4u6ubt2">代码</a></li>
+</ul>
+</li>
+</ul>
+</div>
+<table style="border-collapse: collapse; width: 100%; height: 150.062px;" border="1">
 <tbody>
 <tr style="height: 50.0208px;">
 <td style="width: 33.3007%; height: 50.0208px;"> </td>
@@ -89,12 +404,13 @@
 </tr>
 </tbody>
 </table>
-<h2>企业层级</h2>
+<h2 id="mcetoc_1i5l4u6ubsv">企业层级</h2>
+<p>技术栈</p>
 <p>UML</p>
 <p>语言</p>
-<h2>方案层级</h2>
-<h2>应用层级</h2>
-<h3>代码</h3>
+<h2 id="mcetoc_1i5l4u6ubt0">方案层级</h2>
+<h2 id="mcetoc_1i5l4u6ubt1">应用层级</h2>
+<h3 id="mcetoc_1i5l4u6ubt2">代码</h3>
 <p>选择类、接口、函数和职责</p>
 <p>使用特定组件和模块</p>
 <p> </p>
