@@ -1,67 +1,26 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom" xmlns:media="http://search.yahoo.com/mrss/">
-    <title>编程者</title>
+    <title>一人软件</title>
     <link href="https://yoru-hiru.github.io/fuck-coding/feed.xml" rel="self" />
     <link href="https://yoru-hiru.github.io/fuck-coding" />
-    <updated>2024-08-21T00:35:29+08:00</updated>
+    <updated>2024-12-03T01:47:08+08:00</updated>
     <author>
         <name>Yoruhiru</name>
     </author>
     <id>https://yoru-hiru.github.io/fuck-coding</id>
 
     <entry>
-        <title>设计组件</title>
+        <title>审查</title>
         <author>
             <name>Yoruhiru</name>
         </author>
-        <link href="https://yoru-hiru.github.io/fuck-coding/she-ji-zu-jian.html"/>
-        <id>https://yoru-hiru.github.io/fuck-coding/she-ji-zu-jian.html</id>
+        <link href="https://yoru-hiru.github.io/fuck-coding/ce-shi.html"/>
+        <id>https://yoru-hiru.github.io/fuck-coding/ce-shi.html</id>
 
-        <updated>2024-08-20T18:58:13+08:00</updated>
+        <updated>2024-12-02T21:26:27+08:00</updated>
             <summary>
                 <![CDATA[
-                    头像 横幅 徽章 按钮 卡片 轮播 下拉菜单 图标 输入复选 输入文本 输入开关 选择 文本域 输入单选 列表 加载指示器 模态框 选项卡 吐司 工具提示
-                ]]>
-            </summary>
-        <content type="html">
-            <![CDATA[
-                <ul>
-<li>头像</li>
-<li>横幅</li>
-<li>徽章</li>
-<li>按钮</li>
-<li>卡片</li>
-<li>轮播</li>
-<li>下拉菜单</li>
-<li>图标</li>
-<li>输入复选</li>
-<li>输入文本</li>
-<li>输入开关</li>
-<li>选择</li>
-<li>文本域</li>
-<li>输入单选</li>
-<li>列表</li>
-<li>加载指示器</li>
-<li>模态框</li>
-<li>选项卡</li>
-<li>吐司</li>
-<li>工具提示</li>
-</ul>
-            ]]>
-        </content>
-    </entry>
-    <entry>
-        <title>设计 Token</title>
-        <author>
-            <name>Yoruhiru</name>
-        </author>
-        <link href="https://yoru-hiru.github.io/fuck-coding/she-ji-token.html"/>
-        <id>https://yoru-hiru.github.io/fuck-coding/she-ji-token.html</id>
-
-        <updated>2024-08-20T18:57:59+08:00</updated>
-            <summary>
-                <![CDATA[
-                    布局 颜色 版式 图标
+                    代码风格 测试 功能 优化 安全 路线图
                 ]]>
             </summary>
         <content type="html">
@@ -69,301 +28,47 @@
                 <div class="post__toc">
 <h3>目录</h3>
 <ul>
-<li><a href="#mcetoc_1i5n6nvg22kh">布局</a></li>
-<li><a href="#mcetoc_1i5n6nvg22ki">颜色</a></li>
-<li><a href="#mcetoc_1i5n6nvg22kj">版式</a></li>
-<li><a href="#mcetoc_1i5n6nvg22kk">图标</a></li>
+<li> </li>
+<li><a href="#mcetoc_1ie3qih952q">代码风格</a></li>
+<li><a href="#mcetoc_1ie3qih952r">测试</a>
+<ul>
+<li><a href="#mcetoc_1ie3qih952s">功能</a></li>
+<li><a href="#mcetoc_1ie3qih952t">优化</a>
+<ul>
+<li><a href="#mcetoc_1ie3qih952u">安全</a></li>
+<li><a href="#mcetoc_1ie3qih952v">性能</a></li>
+</ul>
+</li>
+</ul>
+</li>
+<li><a href="#mcetoc_1ie3rfdm13f">模式</a></li>
 </ul>
 </div>
-<h2 id="mcetoc_1i5n6nvg22kh">布局</h2>
-<h2 id="mcetoc_1i5n6nvg22ki">颜色</h2>
-<h2 id="mcetoc_1i5n6nvg22kj">版式</h2>
-<h2 id="mcetoc_1i5n6nvg22kk">图标</h2>
-            ]]>
-        </content>
-    </entry>
-    <entry>
-        <title>设计语言</title>
-        <author>
-            <name>Yoruhiru</name>
-        </author>
-        <link href="https://yoru-hiru.github.io/fuck-coding/jie-mian.html"/>
-        <id>https://yoru-hiru.github.io/fuck-coding/jie-mian.html</id>
-
-        <updated>2024-08-20T14:46:48+08:00</updated>
-            <summary>
-                <![CDATA[
-                    指南 无障碍 用户引导 缩微指南 品牌 写作指南 语气 术语 设计原则 愿景 Logo 单色版 小型使用指南 放置与清理指导 使用指导 多种文件格式 工具 设计 开发 项目管理 任务管理 路线图 里程碑 工单 沟通&hellip;
-                ]]>
-            </summary>
-        <content type="html">
-            <![CDATA[
-                <div class="post__toc">
-<h3>目录</h3>
-<ul>
-<li><a href="#mcetoc_1i5n6nvg22kd">指南</a></li>
-<li><a href="#mcetoc_1i5n6nvg22ke">品牌</a></li>
-<li><a href="#mcetoc_1i5n6nvg22kf">Logo</a></li>
-<li><a href="#mcetoc_1i5n6nvg22km">工具</a>
-<ul>
-<li><a href="#mcetoc_1i5n6nvg22kn">设计</a></li>
-<li><a href="#mcetoc_1i5n6nvg22ko">开发</a></li>
-</ul>
-</li>
-<li><a href="#mcetoc_1i5n6nvg22kp">项目管理</a>
-<ul>
-<li><a href="#mcetoc_1i5n6nvg22kq">任务管理</a></li>
-<li><a href="#mcetoc_1i5n6nvg22kr">沟通</a></li>
-<li><a href="#mcetoc_1i5n6nvg22ks">分析</a></li>
-</ul>
-</li>
-</ul>
-</div>
-<h2 id="mcetoc_1i5n6nvg22kd">指南</h2>
-<p>无障碍</p>
-<p>用户引导</p>
-<p>缩微指南</p>
-<h2 id="mcetoc_1i5n6nvg22ke">品牌</h2>
-<h3>写作指南</h3>
-<h3>语气</h3>
-<h3>术语</h3>
-<h3>设计原则</h3>
-<h3>愿景</h3>
-<h2 id="mcetoc_1i5n6nvg22kf">Logo</h2>
-<h3>单色版</h3>
-<h3>小型使用指南</h3>
-<h3>放置与清理指导</h3>
-<h3>使用指导</h3>
-<h3>多种文件格式</h3>
-<h2 id="mcetoc_1i5n6nvg22km">工具</h2>
-<h3 id="mcetoc_1i5n6nvg22kn">设计</h3>
-<h3 id="mcetoc_1i5n6nvg22ko">开发</h3>
-<h2 id="mcetoc_1i5n6nvg22kp">项目管理</h2>
-<h3 id="mcetoc_1i5n6nvg22kq">任务管理</h3>
-<ul>
-<li>路线图</li>
-<li>里程碑</li>
-<li>工单</li>
-</ul>
-<h3 id="mcetoc_1i5n6nvg22kr">沟通</h3>
-<h3 id="mcetoc_1i5n6nvg22ks">分析</h3>
-<ul>
-<li>组件分析</li>
-<li>错误日志</li>
-<li>工具分析</li>
-<li>服务与健康指标</li>
-</ul>
-            ]]>
-        </content>
-    </entry>
-    <entry>
-        <title>用户体验</title>
-        <author>
-            <name>Yoruhiru</name>
-        </author>
-        <link href="https://yoru-hiru.github.io/fuck-coding/yong-hu-ti-yan.html"/>
-        <id>https://yoru-hiru.github.io/fuck-coding/yong-hu-ti-yan.html</id>
-
-        <updated>2024-08-19T19:15:46+08:00</updated>
-            <summary>
-                <![CDATA[
-                    决策 因素 认知偏差 情绪 信息过载 模型 补偿模型 非补偿模型 满意模型 原则 渐进式披露 认知辅助 反馈 默认值 行为改变策略 理解产品 概念设计 原型 最佳实践 衡量 指标 用户满意度 通过以下方式收集反馈 调查 评级&hellip;
-                ]]>
-            </summary>
-        <content type="html">
-            <![CDATA[
-                <div class="post__toc">
-<h3>目录</h3>
-<ul>
-<li><a href="#mcetoc_1i5l54u0jt5">决策</a>
-<ul>
-<li><a href="#mcetoc_1i5l57kactc">因素</a>
-<ul>
-<li><a href="#mcetoc_1i5l57kactd">认知偏差</a></li>
-<li><a href="#mcetoc_1i5l57kacte">情绪</a></li>
-<li><a href="#mcetoc_1i5l57kactf">信息过载</a></li>
-</ul>
-</li>
-<li><a href="#mcetoc_1i5l57t64th">模型</a>
-<ul>
-<li><a href="#mcetoc_1i5l59n8ftp">补偿模型</a></li>
-<li><a href="#mcetoc_1i5l59n8ftq">非补偿模型</a></li>
-<li><a href="#mcetoc_1i5l59n8ftr">满意模型</a></li>
-</ul>
-</li>
-<li><a href="#mcetoc_1i5l5blrpuc">原则</a>
-<ul>
-<li><a href="#mcetoc_1i5l5blrpud">渐进式披露</a></li>
-<li><a href="#mcetoc_1i5l5blrpue">认知辅助</a></li>
-<li><a href="#mcetoc_1i5l5blrpuf">反馈</a></li>
-<li><a href="#mcetoc_1i5l5l579vp">默认值</a></li>
-</ul>
-</li>
-</ul>
-</li>
-<li><a href="#mcetoc_1i5l59n8fts">行为改变策略</a></li>
-<li><a href="#mcetoc_1i5l5l579vq">理解产品</a></li>
-<li><a href="#mcetoc_1i5l5l579vr">概念设计</a></li>
-<li><a href="#mcetoc_1i5l5l579vs">原型</a></li>
-<li><a href="#mcetoc_1i5l5l579vt">最佳实践</a></li>
-<li><a href="#mcetoc_1i5l5l579vu">衡量</a>
-<ul>
-<li><a href="#mcetoc_1i5lom4dv1bi">指标</a>
-<ul>
-<li><a href="#mcetoc_1i5lom4dv1bj">用户满意度</a></li>
-<li><a href="#mcetoc_1i5lom4dv1bk">任务完成</a></li>
-<li><a href="#mcetoc_1i5lom4dv1bl">完成时间</a></li>
-<li><a href="#mcetoc_1i5lom4dv1bm">错误率</a></li>
-<li><a href="#mcetoc_1i5lom4dv1bn">转化率</a></li>
-</ul>
-</li>
-<li><a href="#mcetoc_1i5lom4dv1bo">方法</a>
-<ul>
-<li><a href="#mcetoc_1i5lom4dv1bp">可用性测试</a></li>
-<li><a href="#mcetoc_1i5lom4dv1bq">A/B测试</a></li>
-<li><a href="#mcetoc_1i5lom4dv1br">热图</a></li>
-<li><a href="#mcetoc_1i5lom4dv1bs">调查与访谈</a></li>
-</ul>
-</li>
-<li><a href="#mcetoc_1i5lom4dv1bt">工具</a>
-<ul>
-<li><a href="#mcetoc_1i5lom4dv1bu">Google Analytics</a></li>
-<li><a href="#mcetoc_1i5lom4dv1bv">Hotjar</a></li>
-<li><a href="#mcetoc_1i5lom4dv1c0">Optimizely</a></li>
-<li><a href="#mcetoc_1i5lom4dv1c1">UsabilityHub</a></li>
-</ul>
-</li>
-</ul>
-</li>
-</ul>
-</div>
-<h2 id="mcetoc_1i5l54u0jt5">决策</h2>
-<h3 id="mcetoc_1i5l57kactc">因素</h3>
-<h4 id="mcetoc_1i5l57kactd">认知偏差</h4>
-<h4 id="mcetoc_1i5l57kacte">情绪</h4>
-<h4 id="mcetoc_1i5l57kactf">信息过载</h4>
-<h3 id="mcetoc_1i5l57t64th">模型</h3>
-<h4 id="mcetoc_1i5l59n8ftp">补偿模型</h4>
-<h4 id="mcetoc_1i5l59n8ftq">非补偿模型</h4>
-<h4 id="mcetoc_1i5l59n8ftr">满意模型</h4>
-<h3 id="mcetoc_1i5l5blrpuc">原则</h3>
-<h4 id="mcetoc_1i5l5blrpud">渐进式披露</h4>
-<h4 id="mcetoc_1i5l5blrpue">认知辅助</h4>
-<h4 id="mcetoc_1i5l5blrpuf">反馈</h4>
-<h4 id="mcetoc_1i5l5l579vp">默认值</h4>
-<h2 id="mcetoc_1i5l59n8fts">行为改变策略</h2>
-<h2 id="mcetoc_1i5l5l579vq">理解产品</h2>
-<h2 id="mcetoc_1i5l5l579vr">概念设计</h2>
-<h2 id="mcetoc_1i5l5l579vs">原型</h2>
-<h2 id="mcetoc_1i5l5l579vt">最佳实践</h2>
-<h2 id="mcetoc_1i5l5l579vu">衡量</h2>
-<h3 id="mcetoc_1i5lom4dv1bi">指标</h3>
-<h4 id="mcetoc_1i5lom4dv1bj">用户满意度</h4>
-<p>通过以下方式收集反馈</p>
-<ul>
-<li>调查</li>
-<li>评级</li>
-<li>访谈</li>
-</ul>
-<h4 id="mcetoc_1i5lom4dv1bk">任务完成</h4>
-<h4 id="mcetoc_1i5lom4dv1bl">完成时间</h4>
-<h4 id="mcetoc_1i5lom4dv1bm">错误率</h4>
-<h4 id="mcetoc_1i5lom4dv1bn">转化率</h4>
-<h3 id="mcetoc_1i5lom4dv1bo">方法</h3>
-<h4 id="mcetoc_1i5lom4dv1bp">可用性测试</h4>
-<h4 id="mcetoc_1i5lom4dv1bq">A/B测试</h4>
-<h4 id="mcetoc_1i5lom4dv1br">热图</h4>
-<h4 id="mcetoc_1i5lom4dv1bs">调查与访谈</h4>
-<h3 id="mcetoc_1i5lom4dv1bt">工具</h3>
-<h4 id="mcetoc_1i5lom4dv1bu"><strong data-immersive-translate-walked="cf3e27b6-66e2-4aba-86b5-23ceca409af8">Google Analytics</strong></h4>
-<h4 id="mcetoc_1i5lom4dv1bv"><strong data-immersive-translate-walked="cf3e27b6-66e2-4aba-86b5-23ceca409af8">Hotjar</strong></h4>
-<h4 id="mcetoc_1i5lom4dv1c0"><strong data-immersive-translate-walked="cf3e27b6-66e2-4aba-86b5-23ceca409af8">Optimizely</strong></h4>
-<h4 id="mcetoc_1i5lom4dv1c1"><strong data-immersive-translate-walked="cf3e27b6-66e2-4aba-86b5-23ceca409af8">UsabilityHub</strong></h4>
-            ]]>
-        </content>
-    </entry>
-    <entry>
-        <title>架构决策</title>
-        <author>
-            <name>Yoruhiru</name>
-        </author>
-        <link href="https://yoru-hiru.github.io/fuck-coding/jia-gou-jue-ce.html"/>
-        <id>https://yoru-hiru.github.io/fuck-coding/jia-gou-jue-ce.html</id>
-
-        <updated>2024-08-18T18:55:50+08:00</updated>
-            <summary>
-                <![CDATA[
-                    因素 功能 非功能 功能质量 可靠性 软件工作是否一致 用户友好性 是否有效利用资源 修复或更新系统的简易程度
-                ]]>
-            </summary>
-        <content type="html">
-            <![CDATA[
-                <div class="post__toc">
-<h3>目录</h3>
-<ul>
-<li><a href="#mcetoc_1i5l4tp7ls3">因素</a>
-<ul>
-<li><a href="#mcetoc_1i5l4tp7ls4">功能</a></li>
-<li><a href="#mcetoc_1i5l4tp7ls5">非功能</a>
-<ul>
-<li><a href="#mcetoc_1i5l4tp7ls6">功能质量</a></li>
-<li><a href="#mcetoc_1i5l4tp7ls7">可靠性</a></li>
-<li><a href="#mcetoc_1i5l4tp7ls8">可用性</a></li>
-<li><a href="#mcetoc_1i5l4tp7ls9">效率</a></li>
-<li><a href="#mcetoc_1i5l4tp7lsa">可维护性</a></li>
-<li><a href="#mcetoc_1i5l4tp7lsb">可拓展性</a></li>
-</ul>
-</li>
-<li><a href="#mcetoc_1i5l4tp7lsc">限制</a>
-<ul>
-<li><a href="#mcetoc_1i5l4tp7lsd">法律</a></li>
-<li><a href="#mcetoc_1i5l4tp7lse">标准</a></li>
-<li><a href="#mcetoc_1i5l4tp7lsf">成本</a></li>
-<li><a href="#mcetoc_1i5l4tp7lsg">时间</a></li>
-<li><a href="#mcetoc_1i5l4tp7lsh">团队</a></li>
-</ul>
-</li>
-</ul>
-</li>
-<li><a href="#mcetoc_1i5l4tp7lsi">原则</a></li>
-</ul>
-</div>
-<h2 id="mcetoc_1i5l4tp7ls3">因素</h2>
-<h3 id="mcetoc_1i5l4tp7ls4">功能</h3>
-<h3 id="mcetoc_1i5l4tp7ls5">非功能</h3>
-<h4 id="mcetoc_1i5l4tp7ls6">功能质量</h4>
-<h4 id="mcetoc_1i5l4tp7ls7">可靠性</h4>
-<p>软件工作是否一致</p>
-<h4 id="mcetoc_1i5l4tp7ls8">可用性</h4>
-<p>用户友好性</p>
-<h4 id="mcetoc_1i5l4tp7ls9">效率</h4>
-<p>是否有效利用资源</p>
-<h4 id="mcetoc_1i5l4tp7lsa">可维护性</h4>
-<p>修复或更新系统的简易程度</p>
-<h4 id="mcetoc_1i5l4tp7lsb">可拓展性</h4>
-<h3 id="mcetoc_1i5l4tp7lsc">限制</h3>
-<h4 id="mcetoc_1i5l4tp7lsd">法律</h4>
-<h4 id="mcetoc_1i5l4tp7lse">标准</h4>
-<h4 id="mcetoc_1i5l4tp7lsf">成本</h4>
-<h4 id="mcetoc_1i5l4tp7lsg">时间</h4>
-<h4 id="mcetoc_1i5l4tp7lsh">团队</h4>
-<h2 id="mcetoc_1i5l4tp7lsi">原则</h2>
+<h2 id="mcetoc_1ie3qih952p"></h2>
+<h2 id="mcetoc_1ie3qih952q">代码风格</h2>
+<h2 id="mcetoc_1ie3qih952r">测试</h2>
+<h3 id="mcetoc_1ie3qih952s">功能</h3>
+<h3 id="mcetoc_1ie3qih952t">优化</h3>
+<h4 id="mcetoc_1ie3qih952u">安全</h4>
+<p><a href="https://roadmap.sh/cyber-security" target="_blank" rel="noopener noreferrer">路线图</a></p>
+<h4 id="mcetoc_1ie3qih952v">性能</h4>
+<h2 id="mcetoc_1ie3rfdm13f">模式</h2>
 <p> </p>
             ]]>
         </content>
     </entry>
     <entry>
-        <title>架构模式</title>
+        <title>AI</title>
         <author>
             <name>Yoruhiru</name>
         </author>
-        <link href="https://yoru-hiru.github.io/fuck-coding/jia-gou-mo-shi.html"/>
-        <id>https://yoru-hiru.github.io/fuck-coding/jia-gou-mo-shi.html</id>
+        <link href="https://yoru-hiru.github.io/fuck-coding/ai.html"/>
+        <id>https://yoru-hiru.github.io/fuck-coding/ai.html</id>
 
-        <updated>2024-08-18T18:51:41+08:00</updated>
+        <updated>2024-10-19T09:30:35+08:00</updated>
             <summary>
                 <![CDATA[
-                    专注点 沟通 单个应用 单个团队内部 满足业务的单个或多个应用 多个团队之间 多种解决方案 整个组织 企业层级 技术栈 UML 语言 选择类、接口、函数和职责 使用特定组件和模块
+                    理论 数学 统计 计量经济 编码 探索性数据分析 机器学习 深度学习 MLOps 应用 模型 OpenAI Hugging Face Ollama 嵌入 用例 语义搜索 数据分类 推荐系统 异常检测 工具 Open AI BERT&hellip;
                 ]]>
             </summary>
         <content type="html">
@@ -371,593 +76,1472 @@
                 <div class="post__toc">
 <h3>目录</h3>
 <ul>
-<li><a href="#mcetoc_1i5l4u6ubsv">企业层级</a></li>
-<li><a href="#mcetoc_1i5l4u6ubt0">方案层级</a></li>
-<li><a href="#mcetoc_1i5l4u6ubt1">应用层级</a>
+<li><a href="#mcetoc_1iah88urn5i">理论</a>
 <ul>
-<li><a href="#mcetoc_1i5l4u6ubt2">代码</a></li>
+<li><a href="#mcetoc_1iah8fj456d">数学</a></li>
+<li><a href="#mcetoc_1iah8fj456e">统计</a></li>
+<li><a href="#mcetoc_1iah8fj456f">计量经济</a></li>
+<li><a href="#mcetoc_1iah8fj456g">编码</a></li>
+<li><a href="#mcetoc_1iah8fj456h">探索性数据分析</a></li>
+<li><a href="#mcetoc_1iah8fj456i">机器学习</a></li>
+<li><a href="#mcetoc_1iah8fj456j">深度学习</a></li>
+<li><a href="#mcetoc_1iah8fj456k">MLOps</a></li>
+</ul>
+</li>
+<li><a href="#mcetoc_1iah8b9o85r">应用</a>
+<ul>
+<li><a href="#mcetoc_1iah731l61">模型</a></li>
+<li><a href="#mcetoc_1iah7gh8ur">嵌入</a>
+<ul>
+<li><a href="#mcetoc_1iah7utnl47">用例</a></li>
+<li><a href="#mcetoc_1iah7utnl48">工具</a></li>
+</ul>
+</li>
+<li><a href="#mcetoc_1iah7gh8us">矢量数据库</a></li>
+<li><a href="#mcetoc_1iah7q7rq3i">RAG</a>
+<ul>
+<li><a href="#mcetoc_1iah801b54g">过程</a></li>
+</ul>
+</li>
+<li><a href="#mcetoc_1iah7q7rq3j">代理</a></li>
+<li><a href="#mcetoc_1iah7q7rq3k">多模态</a>
+<ul>
+<li><a href="#mcetoc_1iah85sil55">用例</a></li>
+</ul>
+</li>
+<li><a href="#mcetoc_1iah7q7rq3l">工具</a></li>
+<li><a href="#mcetoc_1iah7b4f4k">安全</a></li>
+</ul>
+</li>
+<li><a href="#mcetoc_1iah8b9o85s">数据分析</a></li>
+</ul>
+</div>
+<h2 id="mcetoc_1iah88urn5i">理论</h2>
+<h3 id="mcetoc_1iah8fj456d">数学</h3>
+<h3 id="mcetoc_1iah8fj456e">统计</h3>
+<h3 id="mcetoc_1iah8fj456f">计量经济</h3>
+<h3 id="mcetoc_1iah8fj456g">编码</h3>
+<h3 id="mcetoc_1iah8fj456h">探索性数据分析</h3>
+<h3 id="mcetoc_1iah8fj456i">机器学习</h3>
+<h3 id="mcetoc_1iah8fj456j">深度学习</h3>
+<h3 id="mcetoc_1iah8fj456k">MLOps</h3>
+<h2 id="mcetoc_1iah8b9o85r">应用</h2>
+<h3 id="mcetoc_1iah731l61">模型</h3>
+<ul>
+<li><a href="https://platform.openai.com/docs/models" target="_blank" rel="noopener noreferrer">OpenAI</a></li>
+<li><a href="https://huggingface.co/" target="_blank" rel="noopener noreferrer">Hugging Face</a></li>
+<li><a href="https://ollama.com/" target="_blank" rel="noopener noreferrer">Ollama</a></li>
+</ul>
+<h3 id="mcetoc_1iah7gh8ur">嵌入</h3>
+<h4 id="mcetoc_1iah7utnl47">用例</h4>
+<ul>
+<li>语义搜索</li>
+<li>数据分类</li>
+<li>推荐系统</li>
+<li>异常检测</li>
+</ul>
+<h4 id="mcetoc_1iah7utnl48">工具</h4>
+<ul>
+<li><a href="https://platform.openai.com/docs/api-reference/embeddings/create" target="_blank" rel="noopener noreferrer">Open AI</a></li>
+<li><a href="https://h2o.ai/wiki/bert/" target="_blank" rel="noopener noreferrer">BERT</a></li>
+<li><a href="https://sbert.net/" target="_blank" rel="noopener noreferrer">SBERT</a></li>
+<li><a href="https://huggingface.co/" target="_blank" rel="noopener noreferrer">Hugging Face</a></li>
+</ul>
+<h3 id="mcetoc_1iah7gh8us">矢量数据库</h3>
+<h3 id="mcetoc_1iah7q7rq3i">RAG</h3>
+<h4 id="mcetoc_1iah801b54g">过程</h4>
+<p id="mcetoc_1iah801b54h">分块</p>
+<p id="mcetoc_1iah801b54i">嵌入</p>
+<p id="mcetoc_1iah801b54j">矢量数据库</p>
+<p id="mcetoc_1iah801b54k">检索</p>
+<p id="mcetoc_1iah801b54l">生成</p>
+<h3 id="mcetoc_1iah7q7rq3j">代理</h3>
+<h3 id="mcetoc_1iah7q7rq3k">多模态</h3>
+<h4 id="mcetoc_1iah85sil55">用例</h4>
+<ul>
+<li>图像理解</li>
+<li>图像生成</li>
+<li>视频理解</li>
+<li>音频处理</li>
+<li>语音转文本</li>
+<li>文本转语音</li>
+</ul>
+<h3 id="mcetoc_1iah7q7rq3l">工具</h3>
+<h3 id="mcetoc_1iah7b4f4k">安全</h3>
+<h2 id="mcetoc_1iah8b9o85s">数据分析</h2>
+            ]]>
+        </content>
+    </entry>
+    <entry>
+        <title>Radix</title>
+        <author>
+            <name>Yoruhiru</name>
+        </author>
+        <link href="https://yoru-hiru.github.io/fuck-coding/radix.html"/>
+        <id>https://yoru-hiru.github.io/fuck-coding/radix.html</id>
+
+        <updated>2024-10-11T13:35:12+08:00</updated>
+            <summary>
+                <![CDATA[
+                    安装包 npm install @radix-ui/themes 导入样式 import "@radix-ui/themes/styles.css";
+                ]]>
+            </summary>
+        <content type="html">
+            <![CDATA[
+                <ol>
+<li>安装包
+<pre class="language-bash"><code>npm install @radix-ui/themes</code></pre>
+</li>
+<li>导入样式
+<pre class="language-javascript"><code>import "@radix-ui/themes/styles.css";
+</code></pre>
+</li>
+</ol>
+            ]]>
+        </content>
+    </entry>
+    <entry>
+        <title>Refine</title>
+        <author>
+            <name>Yoruhiru</name>
+        </author>
+        <link href="https://yoru-hiru.github.io/fuck-coding/refine.html"/>
+        <id>https://yoru-hiru.github.io/fuck-coding/refine.html</id>
+
+        <updated>2024-10-07T19:13:36+08:00</updated>
+            <summary>
+                <![CDATA[
+                    React 元框架。 用于 CRUD 密集型 Web 应用： 通过核心组件和钩子， npm create refine-app@latest 选择模板 Vite Next 选择后端服务 选择 UI 框架
+                ]]>
+            </summary>
+        <content type="html">
+            <![CDATA[
+                <p>React 元框架。</p>
+<p>用于 CRUD 密集型 Web 应用：</p>
+<ul>
+<li>内部工具</li>
+<li>管理面板</li>
+<li>仪表盘</li>
+<li>B2B 应用</li>
+<li>表单</li>
+</ul>
+<p>通过核心组件和钩子，</p>
+<ul>
+<li>身份验证</li>
+<li>访问控制</li>
+<li>路由</li>
+<li>网络</li>
+<li>状态管理</li>
+<li>国际化</li>
+</ul>
+<p> </p>
+<ul>
+<li>平台
+<ul>
+<li>Next.js</li>
+<li>Remix</li>
+<li>React Native</li>
+<li>Electron</li>
+</ul>
+</li>
+<li>UI
+<ul>
+<li>TailwindCSS</li>
+<li>Ant Design</li>
+<li>Material UI</li>
+<li>Mantine</li>
+<li>Chakra UI</li>
+</ul>
+</li>
+<li>验证</li>
+<li>后端</li>
+</ul>
+<h2>使用</h2>
+<pre class="language-bash"><code>npm create refine-app@latest</code></pre>
+<ol>
+<li>选择模板
+<ul>
+<li>Vite</li>
+<li>Next</li>
+</ul>
+</li>
+<li>选择后端服务</li>
+<li>选择 UI 框架</li>
+</ol>
+            ]]>
+        </content>
+    </entry>
+    <entry>
+        <title>Ant Design Pro 6</title>
+        <author>
+            <name>Yoruhiru</name>
+        </author>
+        <link href="https://yoru-hiru.github.io/fuck-coding/ant-design-pro.html"/>
+        <id>https://yoru-hiru.github.io/fuck-coding/ant-design-pro.html</id>
+
+        <updated>2024-09-26T15:23:03+08:00</updated>
+            <summary>
+                <![CDATA[
+                    准备 依赖 node git 安装 npm i @ant-design/pro-cli -g npm install yarn tyarn -g # 不用 tyarn 很容易依赖安装失败 使用 创建应用 pro create my-app cd my-app&hellip;
+                ]]>
+            </summary>
+        <content type="html">
+            <![CDATA[
+                <div class="post__toc">
+<h3>目录</h3>
+<ul>
+<li><a href="#mcetoc_1i94716a61g">准备</a>
+<ul>
+<li><a href="#mcetoc_1i94716a61h">依赖</a></li>
+<li><a href="#mcetoc_1i94716a61i">安装</a></li>
+</ul>
+</li>
+<li><a href="#mcetoc_1i94716a61j">使用</a>
+<ul>
+<li><a href="#mcetoc_1i94716a61k">创建应用</a></li>
 </ul>
 </li>
 </ul>
 </div>
-<table style="border-collapse: collapse; width: 100%; height: 150.062px;" border="1">
+<h2 id="mcetoc_1i94716a61f"></h2>
+<h2 id="mcetoc_1i94716a61g">准备</h2>
+<h3 id="mcetoc_1i94716a61h">依赖</h3>
+<ul>
+<li>node</li>
+<li>git</li>
+</ul>
+<h3 id="mcetoc_1i94716a61i">安装</h3>
+<pre class="language-bash"><code>npm i @ant-design/pro-cli -g
+npm install yarn tyarn -g # 不用 tyarn 很容易依赖安装失败 </code></pre>
+<h2 id="mcetoc_1i94716a61j">使用</h2>
+<h3 id="mcetoc_1i94716a61k">创建应用</h3>
+<pre class="language-bash"><code>pro create my-app
+cd my-app
+tyarn
+yarn start</code></pre>
+<p class="msg--warning msg--highlight msg">白屏问题：删除路由 user/404（在 config/routes.ts 文件里）</p>
+<h3>国际化</h3>
+<p>src/locales</p>
+<p> </p>
+<p> </p>
+            ]]>
+        </content>
+    </entry>
+    <entry>
+        <title>Umi</title>
+        <author>
+            <name>Yoruhiru</name>
+        </author>
+        <link href="https://yoru-hiru.github.io/fuck-coding/umi.html"/>
+        <id>https://yoru-hiru.github.io/fuck-coding/umi.html</id>
+
+        <updated>2024-09-23T02:07:18+08:00</updated>
+            <summary>
+                <![CDATA[
+                    npx create-umi@latest pnpm dev pnpm build pnpm umi g
+                ]]>
+            </summary>
+        <content type="html">
+            <![CDATA[
+                <pre class="language-bash"><code>npx create-umi@latest</code></pre>
+<pre class="language-bash"><code>pnpm dev</code></pre>
+<pre class="language-bash"><code>pnpm build</code></pre>
+<pre class="language-bash"><code>pnpm umi g</code></pre>
+            ]]>
+        </content>
+    </entry>
+    <entry>
+        <title>Material UI</title>
+        <author>
+            <name>Yoruhiru</name>
+        </author>
+        <link href="https://yoru-hiru.github.io/fuck-coding/material-ui.html"/>
+        <id>https://yoru-hiru.github.io/fuck-coding/material-ui.html</id>
+
+        <updated>2024-09-22T13:48:07+08:00</updated>
+            <summary>
+                <![CDATA[
+                    安装 npm install @mui/material @emotion/react @emotion/styled npm install @mui/icons-material &lt;meta name="viewport" content="initial-scale=1, width=device-width" /&gt; 字体修改
+                ]]>
+            </summary>
+        <content type="html">
+            <![CDATA[
+                <h2>安装</h2>
+<pre class="language-bash"><code>npm install @mui/material @emotion/react @emotion/styled</code></pre>
+<pre class="language-bash"><code>npm install @mui/icons-material</code></pre>
+<pre class="language-html"><code>&lt;meta name="viewport" content="initial-scale=1, width=device-width" /&gt;
+</code></pre>
+<p>字体修改</p>
+            ]]>
+        </content>
+    </entry>
+    <entry>
+        <title>开源</title>
+        <author>
+            <name>Yoruhiru</name>
+        </author>
+        <link href="https://yoru-hiru.github.io/fuck-coding/kai-yuan.html"/>
+        <id>https://yoru-hiru.github.io/fuck-coding/kai-yuan.html</id>
+
+        <updated>2024-09-21T15:47:46+08:00</updated>
+            <summary>
+                <![CDATA[
+                    组织 子组织 Adobe AWS Amplify Cloudscape Design Pinterest 抖音前端 Arco Design Red Hat PatternFly Elastic Salesforce UX Microsoft IBM Carbon Design System Uber Ant Design&hellip;
+                ]]>
+            </summary>
+        <content type="html">
+            <![CDATA[
+                <table style="border-collapse: collapse; width: 100%;" border="1">
 <tbody>
-<tr style="height: 50.0208px;">
-<td style="width: 33.3007%; height: 50.0208px;"> </td>
-<td style="width: 33.3007%; height: 50.0208px;">专注点</td>
-<td style="width: 33.3037%; height: 50.0208px;">沟通</td>
-</tr>
-<tr style="height: 50.0208px;">
-<td style="width: 33.3007%; height: 50.0208px;"> </td>
-<td style="width: 33.3007%; height: 50.0208px;">单个应用</td>
-<td style="width: 33.3037%; height: 50.0208px;">单个团队内部</td>
-</tr>
-<tr style="height: 50.0208px;">
-<td style="width: 33.3007%; height: 50.0208px;"> </td>
-<td style="width: 33.3007%; height: 50.0208px;">满足业务的单个或多个应用</td>
-<td style="width: 33.3037%; height: 50.0208px;">多个团队之间</td>
+<tr>
+<td style="width: 33.365%;">组织</td>
+<td style="width: 33.365%;">子组织</td>
+<td style="width: 33.2224%;"> </td>
 </tr>
 <tr>
-<td style="width: 33.3007%;"> </td>
-<td style="width: 33.3007%;">多种解决方案</td>
-<td style="width: 33.3037%;">整个组织</td>
+<td style="width: 33.365%;"><a href="https://github.com/adobe" target="_blank" rel="noopener noreferrer">Adobe</a></td>
+<td style="width: 33.365%;"> </td>
+<td style="width: 33.2224%;"> </td>
+</tr>
+<tr>
+<td style="width: 33.365%;" rowspan="2">AWS</td>
+<td style="width: 33.365%;"><a href="https://github.com/aws-amplify" target="_blank" rel="noopener noreferrer">Amplify</a></td>
+<td style="width: 33.2224%;"> </td>
+</tr>
+<tr>
+<td style="width: 33.365%;"><a href="https://github.com/cloudscape-design" target="_blank" rel="noopener noreferrer">Cloudscape Design</a></td>
+<td style="width: 33.2224%;"> </td>
+</tr>
+<tr>
+<td style="width: 33.365%;"><a href="https://github.com/pinterest" target="_blank" rel="noopener noreferrer">Pinterest</a></td>
+<td style="width: 33.365%;"> </td>
+<td style="width: 33.2224%;"> </td>
+</tr>
+<tr>
+<td style="width: 33.365%;" rowspan="2"> </td>
+<td style="width: 33.365%;"><a href="https://github.com/DouyinFE" target="_blank" rel="noopener noreferrer">抖音前端</a></td>
+<td style="width: 33.2224%;"> </td>
+</tr>
+<tr>
+<td style="width: 33.365%;"><a href="https://github.com/arco-design" target="_blank" rel="noopener noreferrer">Arco Design</a></td>
+<td style="width: 33.2224%;"> </td>
+</tr>
+<tr>
+<td style="width: 33.365%;">Red Hat</td>
+<td style="width: 33.365%;"><a href="https://github.com/patternfly" target="_blank" rel="noopener noreferrer">PatternFly</a></td>
+<td style="width: 33.2224%;"> </td>
+</tr>
+<tr>
+<td style="width: 33.365%;"><a href="https://github.com/elastic" target="_blank" rel="noopener noreferrer">Elastic</a></td>
+<td style="width: 33.365%;"> </td>
+<td style="width: 33.2224%;"> </td>
+</tr>
+<tr>
+<td style="width: 33.365%;">Salesforce</td>
+<td style="width: 33.365%;"><a href="https://github.com/salesforce-ux" target="_blank" rel="noopener noreferrer">UX</a></td>
+<td style="width: 33.2224%;"> </td>
+</tr>
+<tr>
+<td style="width: 33.365%;"><a href="https://opensource.microsoft.com/" target="_blank" rel="noopener noreferrer">Microsoft</a></td>
+<td style="width: 33.365%;"> </td>
+<td style="width: 33.2224%;"> </td>
+</tr>
+<tr>
+<td style="width: 33.365%;">IBM</td>
+<td style="width: 33.365%;"><a href="https://github.com/carbon-design-system" target="_blank" rel="noopener noreferrer">Carbon Design System</a></td>
+<td style="width: 33.2224%;"> </td>
+</tr>
+<tr>
+<td style="width: 33.365%;"><a href="https://uber.github.io/#/" target="_blank" rel="noopener noreferrer">Uber</a></td>
+<td style="width: 33.365%;"> </td>
+<td style="width: 33.2224%;"> </td>
+</tr>
+<tr>
+<td style="width: 33.365%;"> </td>
+<td style="width: 33.365%;"><a href="https://github.com/ant-design" target="_blank" rel="noopener noreferrer">Ant Design</a></td>
+<td style="width: 33.2224%;"> </td>
+</tr>
+<tr>
+<td style="width: 33.365%;"><a href="https://github.com/segmentio" target="_blank" rel="noopener noreferrer">Segment</a></td>
+<td style="width: 33.365%;"> </td>
+<td style="width: 33.2224%;"> </td>
+</tr>
+<tr>
+<td style="width: 33.365%;"><a href="https://github.com/Shopify" target="_blank" rel="noopener noreferrer">Shopify</a></td>
+<td style="width: 33.365%;"> </td>
+<td style="width: 33.2224%;"> </td>
+</tr>
+<tr>
+<td style="width: 33.365%;">Github</td>
+<td style="width: 33.365%;"><a href="https://github.com/primer" target="_blank" rel="noopener noreferrer">Primer</a></td>
+<td style="width: 33.2224%;"> </td>
+</tr>
+<tr>
+<td style="width: 33.365%;"><a href="https://github.com/XiaoMi" target="_blank" rel="noopener noreferrer">小米</a></td>
+<td style="width: 33.365%;"> </td>
+<td style="width: 33.2224%;"> </td>
+</tr>
+<tr>
+<td style="width: 33.365%;"><a href="https://www.pixiv.net/" target="_blank" rel="noopener noreferrer">Pixiv</a></td>
+<td style="width: 33.365%;"> </td>
+<td style="width: 33.2224%;"> </td>
+</tr>
+<tr>
+<td style="width: 33.365%;"> </td>
+<td style="width: 33.365%;"><a href="https://github.com/DevCloudFE" target="_blank" rel="noopener noreferrer">DevCloudFE</a></td>
+<td style="width: 33.2224%;"> </td>
+</tr>
+<tr>
+<td style="width: 33.365%;"> </td>
+<td style="width: 33.365%;"> </td>
+<td style="width: 33.2224%;"> </td>
 </tr>
 </tbody>
 </table>
-<h2 id="mcetoc_1i5l4u6ubsv">企业层级</h2>
-<p>技术栈</p>
-<p>UML</p>
-<p>语言</p>
-<h2 id="mcetoc_1i5l4u6ubt0">方案层级</h2>
-<h2 id="mcetoc_1i5l4u6ubt1">应用层级</h2>
-<h3 id="mcetoc_1i5l4u6ubt2">代码</h3>
-<p>选择类、接口、函数和职责</p>
-<p>使用特定组件和模块</p>
-<p> </p>
-<p> </p>
-<p> </p>
             ]]>
         </content>
     </entry>
     <entry>
-        <title>基础</title>
+        <title>设计系统</title>
         <author>
             <name>Yoruhiru</name>
         </author>
-        <link href="https://yoru-hiru.github.io/fuck-coding/ji-chu.html"/>
-        <id>https://yoru-hiru.github.io/fuck-coding/ji-chu.html</id>
+        <link href="https://yoru-hiru.github.io/fuck-coding/she-ji-xi-tong.html"/>
+        <id>https://yoru-hiru.github.io/fuck-coding/she-ji-xi-tong.html</id>
 
-        <updated>2024-08-17T17:57:31+08:00</updated>
+        <updated>2024-09-20T17:04:56+08:00</updated>
             <summary>
                 <![CDATA[
-                    计算机原理 编程语言 数据结构 算法 网络 操作系统
+                    名称及链接 维护者 设计场景 Spectrum Adobe Cloudscape AWS 云 Amplify AWS Amplify Gestalt Pinterest Semi 抖音前端 &amp; MED 中后台 Arco 字节跳动 中后台 Patternfly Red Hat EUI&hellip;
                 ]]>
             </summary>
         <content type="html">
             <![CDATA[
-                <h2>计算机原理</h2>
-<h2>编程语言</h2>
-<h2>数据结构</h2>
-<h2>算法</h2>
-<h2>网络</h2>
-<h2>操作系统</h2>
-            ]]>
-        </content>
-    </entry>
-    <entry>
-        <title>架构</title>
-        <author>
-            <name>Yoruhiru</name>
-        </author>
-        <link href="https://yoru-hiru.github.io/fuck-coding/jia-gou.html"/>
-        <id>https://yoru-hiru.github.io/fuck-coding/jia-gou.html</id>
-
-        <updated>2024-08-17T00:29:52+08:00</updated>
-            <summary>
-                <![CDATA[
-                    区块链
-                ]]>
-            </summary>
-        <content type="html">
-            <![CDATA[
-                <h3>区块链</h3>
-            ]]>
-        </content>
-    </entry>
-    <entry>
-        <title>代码</title>
-        <author>
-            <name>Yoruhiru</name>
-        </author>
-        <link href="https://yoru-hiru.github.io/fuck-coding/dai-ma.html"/>
-        <id>https://yoru-hiru.github.io/fuck-coding/dai-ma.html</id>
-
-        <updated>2024-08-17T00:21:20+08:00</updated>
-            <summary>
-                <![CDATA[
-                    前端 后端 API 搜索引擎 消息队列
-                ]]>
-            </summary>
-        <content type="html">
-            <![CDATA[
-                <h2>前端</h2>
-<h2>后端</h2>
-<p>API</p>
-<p>搜索引擎</p>
-<p>消息队列</p>
-<h2>数据</h2>
-<h3>数据库</h3>
-<h4>关系</h4>
-<h4>非关系</h4>
-<h4>实时</h4>
-<h3>大数据</h3>
-<h3>数据分析</h3>
-<p> </p>
-            ]]>
-        </content>
-    </entry>
-    <entry>
-        <title>产品</title>
-        <author>
-            <name>Yoruhiru</name>
-        </author>
-        <link href="https://yoru-hiru.github.io/fuck-coding/chan-pin.html"/>
-        <id>https://yoru-hiru.github.io/fuck-coding/chan-pin.html</id>
-
-        <updated>2024-08-15T02:17:50+08:00</updated>
-            <summary>
-                <![CDATA[
-                    生命周期 发展 成长 成熟 衰退 识别 方法论 蓝海策略、红海策略 TRIZ 框架问题 头脑风暴 思维导图 书面头脑 SCAMPER 迭代过程 发现 选择 验证 执行 市场 市场 市场需求 竞品分析 新兴趋势 用户&hellip;
-                ]]>
-            </summary>
-        <content type="html">
-            <![CDATA[
-                <div class="post__toc">
-<h3>目录</h3>
-<ul>
-<li><a href="#mcetoc_1i5a2vh733a">生命周期</a></li>
-<li><a href="#mcetoc_1i5a2vh733b">识别</a>
-<ul>
-<li><a href="#mcetoc_1i5a2vh733c">方法论</a>
-<ul>
-<li><a href="#mcetoc_1i5b1ujl81h">蓝海策略、红海策略</a></li>
-<li><a href="#triz-theory-of-inventive-problem-solving-in-product-management">TRIZ </a></li>
-<li><a href="#mcetoc_1i5b1ujl81i">框架问题</a></li>
-</ul>
-</li>
-<li><a href="#mcetoc_1i5a420u921c">头脑风暴</a>
-<ul>
-<li><a href="#mcetoc_1i5b1ujl81j">思维导图</a></li>
-<li><a href="#mcetoc_1i5b1ujl81k">书面头脑</a></li>
-<li><a href="#scamper">SCAMPER </a></li>
-</ul>
-</li>
-<li><a href="#mcetoc_1i5a420u921d">迭代过程</a>
-<ul>
-<li><a href="#mcetoc_1i5b20ap11p">发现</a></li>
-<li><a href="#mcetoc_1i5b20ap11q">选择</a></li>
-<li><a href="#mcetoc_1i5b20ap11r">验证</a></li>
-<li><a href="#mcetoc_1i5b20ap11s">执行</a></li>
-</ul>
-</li>
-</ul>
-</li>
-<li><a href="#mcetoc_1i5a2vh733d">市场</a>
-<ul>
-<li><a href="#mcetoc_1i5a2vh733e">市场</a>
-<ul>
-<li><a href="#mcetoc_1i5ahrj1jh">市场需求</a></li>
-<li><a href="#mcetoc_1i5ahrj1ji">竞品分析</a></li>
-<li><a href="#mcetoc_1i5ahrj1jj">新兴趋势</a></li>
-</ul>
-</li>
-<li><a href="#mcetoc_1i5a2vh733f">用户</a>
-<ul>
-<li><a href="#mcetoc_1i5ahrj1jk">角色</a></li>
-<li><a href="#mcetoc_1i5ahrj1jl">访谈</a></li>
-<li><a href="#mcetoc_1i5ahrj1jm">调查与问卷</a></li>
-<li><a href="#mcetoc_1i5ahrj1jn">民族志</a></li>
-</ul>
-</li>
-<li><a href="#mcetoc_1i5a2vh733g">产品定位</a>
-<ul>
-<li><a href="#mcetoc_1i5b2aqft20">独特卖点</a></li>
-<li><a href="#mcetoc_1i5b2aqft21">市场细分</a></li>
-<li><a href="#mcetoc_1i5b2aqft22">用例研究</a></li>
-</ul>
-</li>
-</ul>
-</li>
-<li><a href="#mcetoc_1i5a2vh733h">策略</a>
-<ul>
-<li><a href="#mcetoc_1i5a3o5o81vu">愿景与使命</a>
-<ul>
-<li><a href="#mcetoc_1i5bg7jh66s8">陈述</a></li>
-<li><a href="#mcetoc_1i5bg7jh66s9">主张</a></li>
-<li><a href="#mcetoc_1i5bg7jh66sa">设定</a></li>
-<li><a href="#mcetoc_1i5bg7jh66sb">眼前障碍、未来障碍</a></li>
-<li><a href="#mcetoc_1i5bg7jh66sc">参考资料</a></li>
-<li><a href="#mcetoc_1i5bg7jh66sd">叙事</a></li>
-</ul>
-</li>
-<li><a href="#mcetoc_1i5a3o5o81vv">目标</a>
-<ul>
-<li><a href="#mcetoc_1i5bg7jh66se">标的目标</a></li>
-<li><a href="#mcetoc_1i5bg7jh66sf">基线目标</a></li>
-<li><a href="#mcetoc_1i5bg7jh66sg">趋势目标</a></li>
-<li><a href="#mcetoc_1i5bg7jh66sh">时限目标</a></li>
-</ul>
-</li>
-<li><a href="#mcetoc_1i5a3o5o8200">价值主张</a>
-<ul>
-<li><a href="#mcetoc_1i5bg7jh66si">定义</a></li>
-<li><a href="#mcetoc_1i5bg7jh66sj">画布</a></li>
-</ul>
-</li>
-<li><a href="#mcetoc_1i5a3o5o8201">价值与特征</a>
-<ul>
-<li><a href="#mcetoc_1i5bg7jh66sk">特征蔓延</a></li>
-<li><a href="#mcetoc_1i5bg7jh66sl">寻求平衡</a></li>
-</ul>
-</li>
-<li><a href="#mcetoc_1i5a3o5o8202">战略思维</a>
-<ul>
-<li><a href="#mcetoc_1i5bg7jh66sm">竞争策略</a></li>
-<li><a href="#mcetoc_1i5bg7jh66sn">战略伙伴</a></li>
-</ul>
-</li>
-</ul>
-</li>
-<li><a href="#mcetoc_1i5a3o5o8203">规划</a>
-<ul>
-<li><a href="#mcetoc_1i5a3o5o8204">需求</a>
-<ul>
-<li><a href="#mcetoc_1i5bg7jh66so">文档</a></li>
-<li><a href="#mcetoc_1i5bg7jh66sp">用户故事</a></li>
-<li><a href="#mcetoc_1i5bg7jh66sq">工作故事</a></li>
-</ul>
-</li>
-<li><a href="#mcetoc_1i5a3o5o8205">路线</a>
-<ul>
-<li><a href="#mcetoc_1i5bg7jh66sr">路线图创建</a></li>
-<li><a href="#mcetoc_1i5bg7jh66ss">功能优先级</a></li>
-<li><a href="#mcetoc_1i5bg7jh66st">连续路线图</a></li>
-<li><a href="#mcetoc_1i5bg7jh66su">基于结果的路线图</a></li>
-<li><a href="#mcetoc_1i5bg7jh66sv">路线图传达</a></li>
-</ul>
-</li>
-<li><a href="#mcetoc_1i5a3o5o8206">待办</a>
-<ul>
-<li><a href="#mcetoc_1i5bg7jh66t0">技术优先级</a></li>
-<li><a href="#mcetoc_1i5bg7jh66t1">整理会议</a></li>
-<li><a href="#mcetoc_1i5bg7jh66t2">用户故事映射</a></li>
-</ul>
-</li>
-</ul>
-</li>
-<li><a href="#mcetoc_1i5a3o5o8207">设计</a>
-<ul>
-<li><a href="#mcetoc_1i5a3o5o8208">用户体验/用户界面</a>
-<ul>
-<li><a href="#mcetoc_1i5bg7jh66t3">原则</a></li>
-<li><a href="#mcetoc_1i5bg7jh66t4">线框与原型</a></li>
-<li><a href="#mcetoc_1i5bg7jh66t5">设计思维</a></li>
-</ul>
-</li>
-<li><a href="#mcetoc_1i5a3o5o8209">服务</a></li>
-<li><a href="#mcetoc_1i5a3o5o820a">交互</a></li>
-<li><a href="#mcetoc_1i5a3o5o820b">用户测试</a></li>
-</ul>
-</li>
-<li><a href="#mcetoc_1i5a3o5o820c">开发与发布</a>
-<ul>
-<li><a href="#mcetoc_1i5a3o5o820d">敏捷方法论</a>
-<ul>
-<li><a href="#scrum-basics">Scrum </a></li>
-<li><a href="#mcetoc_1i5bg7jh66t6">看板</a></li>
-</ul>
-</li>
-<li><a href="#mcetoc_1i5a3o5o820e">与工程师团队协作</a>
-<ul>
-<li><a href="#mcetoc_1i5bg7jh66t7">冲刺计划</a></li>
-<li><a href="#mcetoc_1i5bg7jh66t8">日常会议</a></li>
-<li><a href="#mcetoc_1i5bg7jh66t9">回顾</a></li>
-<li><a href="#mcetoc_1i5bg7jh66ta">MVP</a></li>
-</ul>
-</li>
-<li><a href="#mcetoc_1i5a3o5o820f">入市策略</a>
-<ul>
-<li><a href="#mcetoc_1i5bg7jh66tb">推出计划</a></li>
-<li><a href="#mcetoc_1i5bg7jh66tc">营销策略</a></li>
-<li><a href="#mcetoc_1i5bg7jh66td">增长黑客</a></li>
-</ul>
-</li>
-<li><a href="#mcetoc_1i5a3o5o820g">发布策略</a>
-<ul>
-<li><a href="#mcetoc_1i5bg7jh66te">功能切换</a></li>
-<li><a href="#mcetoc_1i5bg7jh66tf">阶段推出</a></li>
-<li><a href="#mcetoc_1i5bg7jh66tg">暗发布</a></li>
-</ul>
-</li>
-</ul>
-</li>
-<li><a href="#mcetoc_1i5a3o5o820h">指标</a>
-<ul>
-<li><a href="#mcetoc_1i5a3o5o820i">具体指标</a>
-<ul>
-<li><a href="#mcetoc_1i5bg7jh66th">日活用户</a></li>
-<li><a href="#mcetoc_1i5bg7jh66ti">月活用户</a></li>
-<li><a href="#mcetoc_1i5bg7jh66tj">转化率</a></li>
-<li><a href="#mcetoc_1i5bg7jh66tk">留存率</a></li>
-<li><a href="#mcetoc_1i5bg7jh66tl">流失率</a></li>
-<li><a href="#mcetoc_1i5bg7jh66tm">终身价值</a></li>
-<li><a href="#mcetoc_1i5bg7jh66tn">客获成本</a></li>
-<li><a href="#mcetoc_1i5bg7jh66to">北极星指标</a></li>
-</ul>
-</li>
-<li><a href="#mcetoc_1i5a3o5o820j">数据驱动决策</a>
-<ul>
-<li><a href="#mcetoc_1i5bg7jh66tp">A/B测试</a></li>
-<li><a href="#mcetoc_1i5bg7jh66tq">群组分析</a></li>
-<li><a href="#mcetoc_1i5bg7jh66tr">预测分析</a></li>
-</ul>
-</li>
-<li><a href="#mcetoc_1i5a3o5o820k">反馈循环</a></li>
-</ul>
-</li>
-<li><a href="#mcetoc_1i5a3o5o820l">利益相关者管理</a>
-<ul>
-<li><a href="#mcetoc_1i5a3o5o820m">沟通</a>
-<ul>
-<li><a href="#mcetoc_1i5bg7jh66ts">人际</a></li>
-<li><a href="#mcetoc_1i5bg7jh66tt">业务</a></li>
-</ul>
-</li>
-<li><a href="#mcetoc_1i5a3o5o820n">管理</a></li>
-</ul>
-</li>
-<li><a href="#mcetoc_1i5a3o5o820o">管理工具</a>
-<ul>
-<li><a href="#mcetoc_1i5a3o5o820p">项目管理</a></li>
-</ul>
-</li>
-<li><a href="#mcetoc_1i5a3o5o820r">风险</a>
-<ul>
-<li><a href="#mcetoc_1i5a3o5o820s">识别</a>
-<ul>
-<li><a href="#mcetoc_1i5bg7jh66tu">识别技术</a></li>
-<li><a href="#mcetoc_1i5bg7jh66tv">登记册</a></li>
-</ul>
-</li>
-<li><a href="#mcetoc_1i5a3o5o820t">评估</a>
-<ul>
-<li><a href="#mcetoc_1i5bg7jh66u0">定性评估</a></li>
-<li><a href="#mcetoc_1i5bg7jh66u1">定量评估</a></li>
-</ul>
-</li>
-<li><a href="#mcetoc_1i5a3o5o820u">缓解</a>
-<ul>
-<li><a href="#mcetoc_1i5bg7jh66u2">缓解策略</a></li>
-<li><a href="#mcetoc_1i5bg7jh66u3">应急计划</a></li>
-</ul>
-</li>
-<li><a href="#mcetoc_1i5a3o5o820v">监控与控制</a>
-<ul>
-<li><a href="#mcetoc_1i5bg7jh66u4">监控工具</a></li>
-<li><a href="#mcetoc_1i5bg7jh66u5">风险审核</a></li>
-</ul>
-</li>
-</ul>
-</li>
-<li><a href="#mcetoc_1i5a3o5o8210">高级话题</a>
-<ul>
-<li><a href="#mcetoc_1i5a3oi0o214">产品扩展</a>
-<ul>
-<li><a href="#mcetoc_1i5bg7jh66u6">增长策略</a></li>
-<li><a href="#mcetoc_1i5bg7jh66u7">国际化</a></li>
-<li><a href="#mcetoc_1i5bg7jh66u8">平台思维</a></li>
-</ul>
-</li>
-<li><a href="#mcetoc_1i5a3oi0o215">产品组合管理</a></li>
-<li><a href="#mcetoc_1i5bg7jh66u9">分析</a>
-<ul>
-<li><a href="#mcetoc_1i5bg7jh66ua">预测分析</a></li>
-<li><a href="#mcetoc_1i5bg7jh66ub">机器学习</a></li>
-<li><a href="#mcetoc_1i5bg7jh66uc">AI</a></li>
-</ul>
-</li>
-<li><a href="#mcetoc_1i5a3oi0o216">领导力与影响力</a>
-<ul>
-<li><a href="#mcetoc_1i5bg7jh66ud">构建、管理团队</a></li>
-<li><a href="#mcetoc_1i5bg7jh76ue">无权影响</a></li>
-<li><a href="#mcetoc_1i5bg7jh76uf">情商</a></li>
-</ul>
-</li>
-</ul>
-</li>
-</ul>
-</div>
-<h2 id="mcetoc_1i5a2vh733a">生命周期</h2>
-<table style="border-collapse: collapse; width: 100%;" border="1">
+                <table style="border-collapse: collapse; width: 100%; height: 10543.6px;" border="1">
 <tbody>
-<tr>
-<td style="width: 49.9526%;"> </td>
-<td style="width: 49.9526%;"> </td>
+<tr style="height: 50.0208px;">
+<th style="width: 33.365%; height: 50.0208px;">名称及链接</th>
+<th style="width: 33.365%; height: 50.0208px;">维护者</th>
+<th style="width: 33.2224%; height: 50.0208px;">设计场景</th>
 </tr>
-<tr>
-<td style="width: 49.9526%;">发展</td>
-<td style="width: 49.9526%;"> </td>
+<tr style="height: 50.0208px;">
+<td style="width: 33.365%; height: 50.0208px;"><a href="https://spectrum.adobe.com/" target="_blank" rel="noopener noreferrer">Spectrum</a></td>
+<td style="width: 33.365%; height: 50.0208px;"><a href="https://www.adobe.com/" target="_blank" rel="noopener noreferrer">Adobe</a></td>
+<td style="width: 33.2224%; height: 50.0208px;"> </td>
 </tr>
-<tr>
-<td style="width: 49.9526%;">成长</td>
-<td style="width: 49.9526%;"> </td>
+<tr style="height: 50.0208px;">
+<td style="width: 33.365%; height: 50.0208px;"><a href="https://cloudscape.design/" target="_blank" rel="noopener noreferrer">Cloudscape</a></td>
+<td style="width: 33.365%; height: 50.0208px;"><a href="https://aws.amazon.com/cn/" target="_blank" rel="noopener noreferrer">AWS</a></td>
+<td style="width: 33.2224%; height: 50.0208px;">云</td>
 </tr>
-<tr>
-<td style="width: 49.9526%;">成熟</td>
-<td style="width: 49.9526%;"> </td>
+<tr style="height: 50.0208px;">
+<td style="width: 33.365%; height: 50.0208px;"><a href="https://ui.docs.amplify.aws/" target="_blank" rel="noopener noreferrer">Amplify</a></td>
+<td style="width: 33.365%; height: 50.0208px;"><a href="https://aws.amazon.com/cn/amplify/" target="_blank" rel="noopener noreferrer">AWS Amplify</a></td>
+<td style="width: 33.2224%; height: 50.0208px;"> </td>
 </tr>
-<tr>
-<td style="width: 49.9526%;">衰退</td>
-<td style="width: 49.9526%;"> </td>
+<tr style="height: 50.0208px;">
+<td style="width: 33.365%; height: 50.0208px;"><a href="https://gestalt.pinterest.systems/home" target="_blank" rel="noopener noreferrer">Gestalt</a></td>
+<td style="width: 33.365%; height: 50.0208px;"><a href="https://www.pinterest.com/" target="_blank" rel="noopener noreferrer">Pinterest</a></td>
+<td style="width: 33.2224%; height: 50.0208px;"> </td>
+</tr>
+<tr style="height: 50.0208px;">
+<td style="width: 33.365%; height: 50.0208px;"><a href="https://semi.design/zh-CN/" target="_blank" rel="noopener noreferrer">Semi</a></td>
+<td style="width: 33.365%; height: 50.0208px;">抖音前端 &amp; <a href="Meta Enterprise Design" target="_blank" rel="noopener noreferrer">MED</a></td>
+<td style="width: 33.2224%; height: 50.0208px;">中后台</td>
+</tr>
+<tr style="height: 50.0208px;">
+<td style="width: 33.365%; height: 50.0208px;"><a href="https://arco.design/en-US" target="_blank" rel="noopener noreferrer">Arco</a></td>
+<td style="width: 33.365%; height: 50.0208px;">字节跳动</td>
+<td style="width: 33.2224%; height: 50.0208px;">中后台</td>
+</tr>
+<tr style="height: 50.0208px;">
+<td style="width: 33.365%; height: 50.0208px;"><a href="https://www.patternfly.org/" target="_blank" rel="noopener noreferrer">Patternfly</a></td>
+<td style="width: 33.365%; height: 50.0208px;"><a href="https://www.redhat.com/en" target="_blank" rel="noopener noreferrer">Red Hat</a></td>
+<td style="width: 33.2224%; height: 50.0208px;"> </td>
+</tr>
+<tr style="height: 50.0208px;">
+<td style="width: 33.365%; height: 50.0208px;"><a href="https://eui.elastic.co/#/" target="_blank" rel="noopener noreferrer">EUI</a></td>
+<td style="width: 33.365%; height: 50.0208px;"><a href="https://www.elastic.co/cn/" target="_blank" rel="noopener noreferrer">Elastic </a></td>
+<td style="width: 33.2224%; height: 50.0208px;"> </td>
+</tr>
+<tr style="height: 50.0208px;">
+<td style="width: 33.365%; height: 50.0208px;"><a href="https://www.lightningdesignsystem.com/" target="_blank" rel="noopener noreferrer">Lightning</a></td>
+<td style="width: 33.365%; height: 50.0208px;">Salesforce </td>
+<td style="width: 33.2224%; height: 50.0208px;"> </td>
+</tr>
+<tr style="height: 50.0208px;">
+<td style="width: 33.365%; height: 50.0208px;"><a href="https://developer.microsoft.com/en-us/fluentui#/" target="_blank" rel="noopener noreferrer">Fluent</a></td>
+<td style="width: 33.365%; height: 50.0208px;">Microsoft</td>
+<td style="width: 33.2224%; height: 50.0208px;"> </td>
+</tr>
+<tr style="height: 50.0208px;">
+<td style="width: 33.365%; height: 50.0208px;"><a href="https://carbondesignsystem.com/" target="_blank" rel="noopener noreferrer">Carbon</a></td>
+<td style="width: 33.365%; height: 50.0208px;"><a href="https://www.ibm.com/cn-zh" target="_blank" rel="noopener noreferrer">IBM</a></td>
+<td style="width: 33.2224%; height: 50.0208px;"> </td>
+</tr>
+<tr style="height: 50.0208px;">
+<td style="width: 33.365%; height: 50.0208px;"><a href="https://ant.design/index-cn" target="_blank" rel="noopener noreferrer">Ant</a></td>
+<td style="width: 33.365%; height: 50.0208px;"><a href="https://xtech.antfin.com/" target="_blank" rel="noopener noreferrer">蚂蚁体验科技</a></td>
+<td style="width: 33.2224%; height: 50.0208px;"> </td>
+</tr>
+<tr style="height: 50.0208px;">
+<td style="width: 33.365%; height: 50.0208px;"><a href="https://baseweb.design/" target="_blank" rel="noopener noreferrer">BaseWeb</a></td>
+<td style="width: 33.365%; height: 50.0208px;">Uber</td>
+<td style="width: 33.2224%; height: 50.0208px;"> </td>
+</tr>
+<tr style="height: 50.0208px;">
+<td style="width: 33.365%; height: 50.0208px;"><a href="https://evergreen.segment.com/" target="_blank" rel="noopener noreferrer">Evergreen</a></td>
+<td style="width: 33.365%; height: 50.0208px;"><a href="https://segment.com/" target="_blank" rel="noopener noreferrer">Segment</a></td>
+<td style="width: 33.2224%; height: 50.0208px;"> </td>
+</tr>
+<tr style="height: 50.0208px;">
+<td style="width: 33.365%; height: 50.0208px;"><a href="https://polaris.shopify.com/" target="_blank" rel="noopener noreferrer">Polaris</a></td>
+<td style="width: 33.365%; height: 50.0208px;">Shopify</td>
+<td style="width: 33.2224%; height: 50.0208px;">商家后台</td>
+</tr>
+<tr style="height: 50.0208px;">
+<td style="width: 33.365%; height: 50.0208px;"><a href="https://primer.style/" target="_blank" rel="noopener noreferrer">Primer</a></td>
+<td style="width: 33.365%; height: 50.0208px;"><a href="https://github.com/" target="_blank" rel="noopener noreferrer">Github</a></td>
+<td style="width: 33.2224%; height: 50.0208px;"> </td>
+</tr>
+<tr style="height: 50.0208px;">
+<td style="width: 33.365%; height: 50.0208px;"><a href="https://brand.aalto.fi/" target="_blank" rel="noopener noreferrer">Aalto </a></td>
+<td style="width: 33.365%; height: 50.0208px;">Aalto University</td>
+<td style="width: 33.2224%; height: 50.0208px;"> </td>
+</tr>
+<tr style="height: 50.0208px;">
+<td style="width: 33.365%; height: 50.0208px;"><a href="https://atlas.adeven.com/" target="_blank" rel="noopener noreferrer">Atlas</a></td>
+<td style="width: 33.365%; height: 50.0208px;"><a href="https://www.adjust.com/" target="_blank" rel="noopener noreferrer">Adjust </a></td>
+<td style="width: 33.2224%; height: 50.0208px;"> </td>
+</tr>
+<tr style="height: 50.0208px;">
+<td style="width: 33.365%; height: 50.0208px;"><a href="https://vercel.com/design" target="_blank" rel="noopener noreferrer">Geist </a></td>
+<td style="width: 33.365%; height: 50.0208px;">Vercel</td>
+<td style="width: 33.2224%; height: 50.0208px;"> </td>
+</tr>
+<tr style="height: 50.0208px;">
+<td style="width: 33.365%; height: 50.0208px;"><a href="https://auro.alaskaair.com/" target="_blank" rel="noopener noreferrer">Auro</a></td>
+<td style="width: 33.365%; height: 50.0208px;">Alaska Airlines</td>
+<td style="width: 33.2224%; height: 50.0208px;"> </td>
+</tr>
+<tr style="height: 50.0208px;">
+<td style="width: 33.365%; height: 50.0208px;"><a href="https://palette.artsy.net/" target="_blank" rel="noopener noreferrer">Palette</a></td>
+<td style="width: 33.365%; height: 50.0208px;">Artsy</td>
+<td style="width: 33.2224%; height: 50.0208px;"> </td>
+</tr>
+<tr style="height: 50.0208px;">
+<td style="width: 33.365%; height: 50.0208px;"><a href="https://developer.apple.com/design/human-interface-guidelines/" target="_blank" rel="noopener noreferrer">HIG</a></td>
+<td style="width: 33.365%; height: 50.0208px;">Apple</td>
+<td style="width: 33.2224%; height: 50.0208px;"> </td>
+</tr>
+<tr style="height: 136.396px;">
+<td style="width: 33.365%; height: 136.396px;"><a href="https://www.astrouxds.com/" target="_blank" rel="noopener noreferrer">Astro</a></td>
+<td style="width: 33.365%; height: 136.396px;">United States Space Force | SSC 使用 &amp; Rocket Communications 设计</td>
+<td style="width: 33.2224%; height: 136.396px;">太空</td>
+</tr>
+<tr style="height: 50.0208px;">
+<td style="width: 33.365%; height: 50.0208px;"><a href="https://atlassian.design/" target="_blank" rel="noopener noreferrer">Atlassian</a></td>
+<td style="width: 33.365%; height: 50.0208px;">Atlassian</td>
+<td style="width: 33.2224%; height: 50.0208px;"> </td>
+</tr>
+<tr style="height: 50.0208px;">
+<td style="width: 33.365%; height: 50.0208px;"><a href="https://aragon.github.io/ods/?path=/docs/docs-documentation--docs" target="_blank" rel="noopener noreferrer">ODS</a></td>
+<td style="width: 33.365%; height: 50.0208px;">Aragon</td>
+<td style="width: 33.2224%; height: 50.0208px;"> </td>
+</tr>
+<tr style="height: 50.0208px;">
+<td style="width: 33.365%; height: 50.0208px;"><a href="https://styleguide.audi.com/document/2865#/-/ui-introduction" target="_blank" rel="noopener noreferrer">Audi</a></td>
+<td style="width: 33.365%; height: 50.0208px;">Audi</td>
+<td style="width: 33.2224%; height: 50.0208px;"> </td>
+</tr>
+<tr style="height: 50.0208px;">
+<td style="width: 33.365%; height: 50.0208px;"><a href="https://www.skyscanner.design/latest/welcome-to-backpack-Mtf5OEo4" target="_blank" rel="noopener noreferrer">Backpack</a></td>
+<td style="width: 33.365%; height: 50.0208px;">Skyscanner</td>
+<td style="width: 33.2224%; height: 50.0208px;">旅游</td>
+</tr>
+<tr style="height: 50.0208px;">
+<td style="width: 33.365%; height: 50.0208px;"><a href="https://seek-oss.github.io/braid-design-system/" target="_blank" rel="noopener noreferrer">Braid</a></td>
+<td style="width: 33.365%; height: 50.0208px;">SEEK</td>
+<td style="width: 33.2224%; height: 50.0208px;"> </td>
+</tr>
+<tr style="height: 50.0208px;">
+<td style="width: 33.365%; height: 50.0208px;"><a href="https://spark.brighte.com.au/" target="_blank" rel="noopener noreferrer">Spark</a></td>
+<td style="width: 33.365%; height: 50.0208px;">Brighte </td>
+<td style="width: 33.2224%; height: 50.0208px;"> </td>
+</tr>
+<tr style="height: 50.0208px;">
+<td style="width: 33.365%; height: 50.0208px;"><a href="https://britishgas.design/" target="_blank" rel="noopener noreferrer">Nucleus</a></td>
+<td style="width: 33.365%; height: 50.0208px;">British Gas</td>
+<td style="width: 33.2224%; height: 50.0208px;"> </td>
+</tr>
+<tr style="height: 50.0208px;">
+<td style="width: 33.365%; height: 50.0208px;"><a href="https://design.buzzvil.com/" target="_blank" rel="noopener noreferrer">Buzzvil</a></td>
+<td style="width: 33.365%; height: 50.0208px;">Buzzvil</td>
+<td style="width: 33.2224%; height: 50.0208px;"> </td>
+</tr>
+<tr style="height: 50.0208px;">
+<td style="width: 33.365%; height: 50.0208px;"><a href="https://boltdesignsystem.com/" target="_blank" rel="noopener noreferrer">Bolt</a></td>
+<td style="width: 33.365%; height: 50.0208px;">Pega</td>
+<td style="width: 33.2224%; height: 50.0208px;"> </td>
+</tr>
+<tr style="height: 50.0208px;">
+<td style="width: 33.365%; height: 50.0208px;"><a href="https://bold.bridge.ufsc.br/en/" target="_blank" rel="noopener noreferrer">Bold</a></td>
+<td style="width: 33.365%; height: 50.0208px;">Bridge</td>
+<td style="width: 33.2224%; height: 50.0208px;"> </td>
+</tr>
+<tr style="height: 50.0208px;">
+<td style="width: 33.365%; height: 50.0208px;"><a href="https://www.bento-ds.com/" target="_blank" rel="noopener noreferrer">Bento DS</a></td>
+<td style="width: 33.365%; height: 50.0208px;"><a href="https://www.buildo.com/" target="_blank" rel="noopener noreferrer">Buildo</a></td>
+<td style="width: 33.2224%; height: 50.0208px;"> </td>
+</tr>
+<tr style="height: 50.0208px;">
+<td style="width: 33.365%; height: 50.0208px;"><a href="https://design.blip.ai/" target="_blank" rel="noopener noreferrer">Blip</a></td>
+<td style="width: 33.365%; height: 50.0208px;">Blip</td>
+<td style="width: 33.2224%; height: 50.0208px;"> </td>
+</tr>
+<tr style="height: 50.0208px;">
+<td style="width: 33.365%; height: 50.0208px;"><a href="https://cedar.rei.com/" target="_blank" rel="noopener noreferrer">Cedar</a></td>
+<td style="width: 33.365%; height: 50.0208px;"><a href="https://www.rei.com/" target="_blank" rel="noopener noreferrer">REI</a></td>
+<td style="width: 33.2224%; height: 50.0208px;"> </td>
+</tr>
+<tr style="height: 50.0208px;">
+<td style="width: 33.365%; height: 50.0208px;"><a href="https://design.censhare.com/5df8dd715/p/173b63-censhare-zen" target="_blank" rel="noopener noreferrer">Censhare Zen</a></td>
+<td style="width: 33.365%; height: 50.0208px;">Censhare</td>
+<td style="width: 33.2224%; height: 50.0208px;"> </td>
+</tr>
+<tr style="height: 50.0208px;">
+<td style="width: 33.365%; height: 50.0208px;"><a href="https://patterns.boston.gov/" target="_blank" rel="noopener noreferrer">Fleet</a></td>
+<td style="width: 33.365%; height: 50.0208px;">波士顿市政府</td>
+<td style="width: 33.2224%; height: 50.0208px;"> </td>
+</tr>
+<tr style="height: 50.0208px;">
+<td style="width: 33.365%; height: 50.0208px;"><a href="https://www.coop.co.uk/experience-library/" target="_blank" rel="noopener noreferrer">Experience </a></td>
+<td style="width: 33.365%; height: 50.0208px;">Co-op</td>
+<td style="width: 33.2224%; height: 50.0208px;"> </td>
+</tr>
+<tr style="height: 50.0208px;">
+<td style="width: 33.365%; height: 50.0208px;"><a href="https://f36.contentful.com/" target="_blank" rel="noopener noreferrer">Forma 36</a></td>
+<td style="width: 33.365%; height: 50.0208px;">Contentful</td>
+<td style="width: 33.2224%; height: 50.0208px;"> </td>
+</tr>
+<tr style="height: 50.0208px;">
+<td style="width: 33.365%; height: 50.0208px;"><a href="https://design.duolingo.com/" target="_blank" rel="noopener noreferrer">Duolingo</a></td>
+<td style="width: 33.365%; height: 50.0208px;">Duolingo</td>
+<td style="width: 33.2224%; height: 50.0208px;"> </td>
+</tr>
+<tr style="height: 50.0208px;">
+<td style="width: 33.365%; height: 50.0208px;"><a href="https://opensource.ebay.com/skin" target="_blank" rel="noopener noreferrer">Skin</a></td>
+<td style="width: 33.365%; height: 50.0208px;">eBay</td>
+<td style="width: 33.2224%; height: 50.0208px;"> </td>
+</tr>
+<tr style="height: 50.0208px;">
+<td style="width: 33.365%; height: 50.0208px;"><a href="https://www.duetds.com/" target="_blank" rel="noopener noreferrer">Duet</a></td>
+<td style="width: 33.365%; height: 50.0208px;">LocalTapiola</td>
+<td style="width: 33.2224%; height: 50.0208px;"> </td>
+</tr>
+<tr style="height: 50.0208px;">
+<td style="width: 33.365%; height: 50.0208px;"><a href="https://www.figma.com/community/file/1288042065237403620/documenso-design-system" target="_blank" rel="noopener noreferrer">Documenso</a></td>
+<td style="width: 33.365%; height: 50.0208px;">Documenso</td>
+<td style="width: 33.2224%; height: 50.0208px;"> </td>
+</tr>
+<tr style="height: 50.0208px;">
+<td style="width: 33.365%; height: 50.0208px;"><a href="https://ui.decentraland.org/?path=/story/arrayfilter--multiple-selectable-values" target="_blank" rel="noopener noreferrer">Decentraland</a></td>
+<td style="width: 33.365%; height: 50.0208px;">Decentraland</td>
+<td style="width: 33.2224%; height: 50.0208px;"> </td>
+</tr>
+<tr style="height: 50.0208px;">
+<td style="width: 33.365%; height: 50.0208px;"><a href="https://www.engie.design/fluid-design-system/" target="_blank" rel="noopener noreferrer">Fluid</a></td>
+<td style="width: 33.365%; height: 50.0208px;">Engie</td>
+<td style="width: 33.2224%; height: 50.0208px;"> </td>
+</tr>
+<tr style="height: 50.0208px;">
+<td style="width: 33.365%; height: 50.0208px;"><a href="https://enigmaforfigma.webflow.io/" target="_blank" rel="noopener noreferrer">Enigma</a></td>
+<td style="width: 33.365%; height: 50.0208px;">Enigma</td>
+<td style="width: 33.2224%; height: 50.0208px;"> </td>
+</tr>
+<tr style="height: 50.0208px;">
+<td style="width: 33.365%; height: 50.0208px;"><a href="https://origami.ft.com/" target="_blank" rel="noopener noreferrer">Origami</a></td>
+<td style="width: 33.365%; height: 50.0208px;">Financial Times</td>
+<td style="width: 33.2224%; height: 50.0208px;"> </td>
+</tr>
+<tr style="height: 50.0208px;">
+<td style="width: 33.365%; height: 50.0208px;"><a href="https://acorn.firefox.com/latest/acorn-aRSAh0Sp" target="_blank" rel="noopener noreferrer">Acorn</a></td>
+<td style="width: 33.365%; height: 50.0208px;">Firefox</td>
+<td style="width: 33.2224%; height: 50.0208px;"> </td>
+</tr>
+<tr style="height: 50.0208px;">
+<td style="width: 33.365%; height: 50.0208px;"><a href="https://www.design.foyer.lu/" target="_blank" rel="noopener noreferrer">Foyer</a></td>
+<td style="width: 33.365%; height: 50.0208px;">Foyer</td>
+<td style="width: 33.2224%; height: 50.0208px;"> </td>
+</tr>
+<tr style="height: 50.0208px;">
+<td style="width: 33.365%; height: 50.0208px;"><a href="https://storybook.futurelearn.com/?path=/story/welcome--page" target="_blank" rel="noopener noreferrer">Futurelearn</a></td>
+<td style="width: 33.365%; height: 50.0208px;">Futurelearn</td>
+<td style="width: 33.2224%; height: 50.0208px;"> </td>
+</tr>
+<tr style="height: 50.0208px;">
+<td style="width: 33.365%; height: 50.0208px;"><a href="https://www.figma.com/community/file/1179442320711977498" target="_blank" rel="noopener noreferrer">Flowbite </a></td>
+<td style="width: 33.365%; height: 50.0208px;"> </td>
+<td style="width: 33.2224%; height: 50.0208px;"> </td>
+</tr>
+<tr style="height: 50.0208px;">
+<td style="width: 33.365%; height: 50.0208px;"><a href="https://www.goodbarber.com/uxdesign/" target="_blank" rel="noopener noreferrer">GoodBarber</a></td>
+<td style="width: 33.365%; height: 50.0208px;">GoodBarber</td>
+<td style="width: 33.2224%; height: 50.0208px;"> </td>
+</tr>
+<tr style="height: 50.0208px;">
+<td style="width: 33.365%; height: 50.0208px;"><a href="https://m3.material.io/" target="_blank" rel="noopener noreferrer">Material</a></td>
+<td style="width: 33.365%; height: 50.0208px;">Google</td>
+<td style="width: 33.2224%; height: 50.0208px;"> </td>
+</tr>
+<tr style="height: 50.0208px;">
+<td style="width: 33.365%; height: 50.0208px;"><a href="https://design-system.service.gov.uk/" target="_blank" rel="noopener noreferrer">GOV.UK </a></td>
+<td style="width: 33.365%; height: 50.0208px;">GOV.UK </td>
+<td style="width: 33.2224%; height: 50.0208px;"> </td>
+</tr>
+<tr style="height: 50.0208px;">
+<td style="width: 33.365%; height: 50.0208px;"><a href="https://gympass.github.io/yoga/" target="_blank" rel="noopener noreferrer">Yoga</a></td>
+<td style="width: 33.365%; height: 50.0208px;">Gympass</td>
+<td style="width: 33.2224%; height: 50.0208px;"> </td>
+</tr>
+<tr style="height: 50.0208px;">
+<td style="width: 33.365%; height: 50.0208px;"><a href="https://design.gitlab.com/" target="_blank" rel="noopener noreferrer">Pajamas </a></td>
+<td style="width: 33.365%; height: 50.0208px;">Gitlab</td>
+<td style="width: 33.2224%; height: 50.0208px;"> </td>
+</tr>
+<tr style="height: 50.0208px;">
+<td style="width: 33.365%; height: 50.0208px;"><a href="https://helios.hashicorp.design/" target="_blank" rel="noopener noreferrer">Helios</a></td>
+<td style="width: 33.365%; height: 50.0208px;">HashiCorp</td>
+<td style="width: 33.2224%; height: 50.0208px;"> </td>
+</tr>
+<tr style="height: 50.0208px;">
+<td style="width: 33.365%; height: 50.0208px;"><a href="https://design.herokai.com/" target="_blank" rel="noopener noreferrer">Herokai</a></td>
+<td style="width: 33.365%; height: 50.0208px;">Heroku</td>
+<td style="width: 33.2224%; height: 50.0208px;"> </td>
+</tr>
+<tr style="height: 50.0208px;">
+<td style="width: 33.365%; height: 50.0208px;"><a href="https://www.helpscout.com/brand/" target="_blank" rel="noopener noreferrer">Help Scout</a></td>
+<td style="width: 33.365%; height: 50.0208px;">Help Scout</td>
+<td style="width: 33.2224%; height: 50.0208px;"> </td>
+</tr>
+<tr style="height: 50.0208px;">
+<td style="width: 33.365%; height: 50.0208px;"><a href="https://uniform.hudl.com/" target="_blank" rel="noopener noreferrer">Uniform</a></td>
+<td style="width: 33.365%; height: 50.0208px;">Hudl</td>
+<td style="width: 33.2224%; height: 50.0208px;"> </td>
+</tr>
+<tr style="height: 50.0208px;">
+<td style="width: 33.365%; height: 50.0208px;"><a href="https://developer.dxc.com/design" target="_blank" rel="noopener noreferrer">Halstack </a></td>
+<td style="width: 33.365%; height: 50.0208px;">DXC Technology</td>
+<td style="width: 33.2224%; height: 50.0208px;"> </td>
+</tr>
+<tr style="height: 50.0208px;">
+<td style="width: 33.365%; height: 50.0208px;"><a href="https://design-system.hpe.design/" target="_blank" rel="noopener noreferrer">HPE</a></td>
+<td style="width: 33.365%; height: 50.0208px;">Hewlett Packard</td>
+<td style="width: 33.2224%; height: 50.0208px;"> </td>
+</tr>
+<tr style="height: 78.8125px;">
+<td style="width: 33.365%; height: 78.8125px;"><a href="https://garden.zendesk.com/" target="_blank" rel="noopener noreferrer">Garden</a></td>
+<td style="width: 33.365%; height: 78.8125px;"><a href="https://www.zendesk.com/" target="_blank" rel="noopener noreferrer">Zendesk</a></td>
+<td style="width: 33.2224%; height: 78.8125px;">客户支持、销售和其他客户沟通相关的 SAAS</td>
+</tr>
+<tr style="height: 107.604px;">
+<td style="width: 33.365%; height: 107.604px;"><a href="https://canvas.workday.com/" target="_blank" rel="noopener noreferrer">Canvas</a></td>
+<td style="width: 33.365%; height: 107.604px;"><a href="https://www.workday.com/" target="_blank" rel="noopener noreferrer">Workday</a></td>
+<td style="width: 33.2224%; height: 107.604px;">云财务管理、人力资本管理和学生信息管理软件供应商</td>
+</tr>
+<tr style="height: 136.396px;">
+<td style="width: 33.365%; height: 136.396px;"><a href="https://plasma.coveo.com/" target="_blank" rel="noopener noreferrer">Plasma</a></td>
+<td style="width: 33.365%; height: 136.396px;"><a href="https://www.coveo.com/en" target="_blank" rel="noopener noreferrer">Coveo</a></td>
+<td style="width: 33.2224%; height: 136.396px;">SaaS公司，为电子商务、客户服务、数字工作场所和网站提供电子商务和企业搜索软件</td>
+</tr>
+<tr style="height: 50.0208px;">
+<td style="width: 33.365%; height: 50.0208px;"><a href="https://styleguide.vtex.com/" target="_blank" rel="noopener noreferrer">Vtex</a></td>
+<td style="width: 33.365%; height: 50.0208px;"><a href="https://vtex.com/en-us/" target="_blank" rel="noopener noreferrer">Vtex</a></td>
+<td style="width: 33.2224%; height: 50.0208px;"> </td>
+</tr>
+<tr style="height: 50.0208px;">
+<td style="width: 33.365%; height: 50.0208px;"><a href="https://clarity.design/" target="_blank" rel="noopener noreferrer">Clarity</a></td>
+<td style="width: 33.365%; height: 50.0208px;">VMWare</td>
+<td style="width: 33.2224%; height: 50.0208px;"> </td>
+</tr>
+<tr style="height: 50.0208px;">
+<td style="width: 33.365%; height: 50.0208px;"><a href="https://vibe.monday.com/?path=/docs/welcome--docs" target="_blank" rel="noopener noreferrer">Vibe</a></td>
+<td style="width: 33.365%; height: 50.0208px;"><a href="monday.com" target="_blank" rel="noopener noreferrer">monday.com</a></td>
+<td style="width: 33.2224%; height: 50.0208px;"> </td>
+</tr>
+<tr style="height: 50.0208px;">
+<td style="width: 33.365%; height: 50.0208px;"><a href="https://designsystem.digital.gov/" target="_blank" rel="noopener noreferrer">USWDS</a></td>
+<td style="width: 33.365%; height: 50.0208px;">美国联邦政府</td>
+<td style="width: 33.2224%; height: 50.0208px;"> </td>
+</tr>
+<tr style="height: 78.8125px;">
+<td style="width: 33.365%; height: 78.8125px;"><a href="https://design.cms.gov/?theme=core" target="_blank" rel="noopener noreferrer">CMS</a></td>
+<td style="width: 33.365%; height: 78.8125px;">医疗保险和医疗补助服务中心管理的联邦政府网站</td>
+<td style="width: 33.2224%; height: 78.8125px;"> </td>
+</tr>
+<tr style="height: 50.0208px;">
+<td style="width: 33.365%; height: 50.0208px;"><a href="https://uspto.github.io/USPTO-Design-System/" target="_blank" rel="noopener noreferrer">USPTO</a></td>
+<td style="width: 33.365%; height: 50.0208px;"><a href="https://www.uspto.gov/" target="_blank" rel="noopener noreferrer">美国专利商标局</a></td>
+<td style="width: 33.2224%; height: 50.0208px;"> </td>
+</tr>
+<tr style="height: 50.0208px;">
+<td style="width: 33.365%; height: 50.0208px;"><a href="https://vanillaframework.io/" target="_blank" rel="noopener noreferrer">Vanilla</a></td>
+<td style="width: 33.365%; height: 50.0208px;">Ubuntu</td>
+<td style="width: 33.2224%; height: 50.0208px;"> </td>
+</tr>
+<tr style="height: 165.188px;">
+<td style="width: 33.365%; height: 165.188px;"><a href="https://paste.twilio.design/" target="_blank" rel="noopener noreferrer">Paste</a></td>
+<td style="width: 33.365%; height: 165.188px;">Twilio</td>
+<td style="width: 33.2224%; height: 165.188px;">云通信公司，提供可编程通信工具，用于拨打和接听电话、发送和接收短信以及使用其Web 服务API执行其他通信功能</td>
+</tr>
+<tr style="height: 50.0208px;">
+<td style="width: 33.365%; height: 50.0208px;"><a href="https://developer.samsung.com/one-ui/index.html" target="_blank" rel="noopener noreferrer">One</a></td>
+<td style="width: 33.365%; height: 50.0208px;"> </td>
+<td style="width: 33.2224%; height: 50.0208px;"> </td>
+</tr>
+<tr style="height: 50.0208px;">
+<td style="width: 33.365%; height: 50.0208px;"><a href="https://thumbprint.design/" target="_blank" rel="noopener noreferrer">Thumbprint</a></td>
+<td style="width: 33.365%; height: 50.0208px;"><a href="https://www.thumbtack.com/" target="_blank" rel="noopener noreferrer">Thumbtack</a></td>
+<td style="width: 33.2224%; height: 50.0208px;"> </td>
+</tr>
+<tr style="height: 50.0208px;">
+<td style="width: 33.365%; height: 50.0208px;"><a href="https://brandfactory.telefonica.com/d/iSp7b1DkYygv" target="_blank" rel="noopener noreferrer">mistica</a></td>
+<td style="width: 33.365%; height: 50.0208px;">Telefonica</td>
+<td style="width: 33.2224%; height: 50.0208px;"> </td>
+</tr>
+<tr style="height: 50.0208px;">
+<td style="width: 33.365%; height: 50.0208px;"><a href="https://fusion.design/pc/?themeid=2" target="_blank" rel="noopener noreferrer">Fusion</a></td>
+<td style="width: 33.365%; height: 50.0208px;">阿里巴巴</td>
+<td style="width: 33.2224%; height: 50.0208px;">中后台</td>
+</tr>
+<tr style="height: 50.0208px;">
+<td style="width: 33.365%; height: 50.0208px;"><a href="https://design.teambition.com/" target="_blank" rel="noopener noreferrer">Clarity </a></td>
+<td style="width: 33.365%; height: 50.0208px;">Teambition</td>
+<td style="width: 33.2224%; height: 50.0208px;">中前台</td>
+</tr>
+<tr style="height: 50.0208px;">
+<td style="width: 33.365%; height: 50.0208px;"><a href="https://design-system.strapi.io/?path=/docs/getting-started-welcome--docs" target="_blank" rel="noopener noreferrer">Strapi</a></td>
+<td style="width: 33.365%; height: 50.0208px;">Strapi</td>
+<td style="width: 33.2224%; height: 50.0208px;"> </td>
+</tr>
+<tr style="height: 50.0208px;">
+<td style="width: 33.365%; height: 50.0208px;"><a href="https://github.com/StackExchange/Stacks" target="_blank" rel="noopener noreferrer">Stacks</a></td>
+<td style="width: 33.365%; height: 50.0208px;">Stack Overflow</td>
+<td style="width: 33.2224%; height: 50.0208px;"> </td>
+</tr>
+<tr style="height: 50.0208px;">
+<td style="width: 33.365%; height: 50.0208px;"><a href="https://www.wix-pages.com/wix-design-system-employees/?path=/story/getting-started--about#Get_started" target="_blank" rel="noopener noreferrer">Wix</a></td>
+<td style="width: 33.365%; height: 50.0208px;">Wix</td>
+<td style="width: 33.2224%; height: 50.0208px;"> </td>
+</tr>
+<tr style="height: 50.0208px;">
+<td style="width: 33.365%; height: 50.0208px;"><a href="https://designsystem.tfwm.org.uk/" target="_blank" rel="noopener noreferrer">WNM</a></td>
+<td style="width: 33.365%; height: 50.0208px;">西米德兰兹郡运输局</td>
+<td style="width: 33.2224%; height: 50.0208px;"> </td>
+</tr>
+<tr style="height: 50.0208px;">
+<td style="width: 33.365%; height: 50.0208px;"><a href="https://vimeo.github.io/iris/sb/main/?path=/docs/iris-welcome--docs" target="_blank" rel="noopener noreferrer">Iris</a></td>
+<td style="width: 33.365%; height: 50.0208px;"><a href="https://vimeo.com/" target="_blank" rel="noopener noreferrer">Vimeo</a></td>
+<td style="width: 33.2224%; height: 50.0208px;"> </td>
+</tr>
+<tr style="height: 50.0208px;">
+<td style="width: 33.365%; height: 50.0208px;"><a href="https://www.designsystem.tech.gov.sg/" target="_blank" rel="noopener noreferrer">SGDS</a></td>
+<td style="width: 33.365%; height: 50.0208px;">新加坡政府</td>
+<td style="width: 33.2224%; height: 50.0208px;"> </td>
+</tr>
+<tr style="height: 50.0208px;">
+<td style="width: 33.365%; height: 50.0208px;"><a href="https://ix.siemens.io/" target="_blank" rel="noopener noreferrer">Industrial Experience</a></td>
+<td style="width: 33.365%; height: 50.0208px;"><a href="https://opensource.siemens.com/" target="_blank" rel="noopener noreferrer">Siemens</a></td>
+<td style="width: 33.2224%; height: 50.0208px;"> </td>
+</tr>
+<tr style="height: 50.0208px;">
+<td style="width: 33.365%; height: 50.0208px;"><a href="https://developer.semrush.com/intergalactic/" target="_blank" rel="noopener noreferrer">Intergalactic</a></td>
+<td style="width: 33.365%; height: 50.0208px;"><a href="https://www.semrush.com/" target="_blank" rel="noopener noreferrer">Semrush</a></td>
+<td style="width: 33.2224%; height: 50.0208px;"> </td>
+</tr>
+<tr style="height: 50.0208px;">
+<td style="width: 33.365%; height: 50.0208px;"><a href="https://seek-oss.github.io/braid-design-system/" target="_blank" rel="noopener noreferrer">Braid</a></td>
+<td style="width: 33.365%; height: 50.0208px;"><a href="https://www.seek.com.au/" target="_blank" rel="noopener noreferrer">Seek</a></td>
+<td style="width: 33.2224%; height: 50.0208px;"> </td>
+</tr>
+<tr style="height: 50.0208px;">
+<td style="width: 33.365%; height: 50.0208px;"><a href="https://seeds.sproutsocial.com/" target="_blank" rel="noopener noreferrer">Seed</a></td>
+<td style="width: 33.365%; height: 50.0208px;">Sprout Social</td>
+<td style="width: 33.2224%; height: 50.0208px;"> </td>
+</tr>
+<tr style="height: 50.0208px;">
+<td style="width: 33.365%; height: 50.0208px;"><a href="https://github.com/scania-digital-design-system/tegel" target="_blank" rel="noopener noreferrer">Scania</a></td>
+<td style="width: 33.365%; height: 50.0208px;"><a href="https://www.scania.com/" target="_blank" rel="noopener noreferrer">Scania</a></td>
+<td style="width: 33.2224%; height: 50.0208px;"> </td>
+</tr>
+<tr style="height: 50.0208px;">
+<td style="width: 33.365%; height: 50.0208px;"><a href="https://www.sap.com/canada/design/design-system.html" target="_blank" rel="noopener noreferrer"></a><a href="https://www.sap.com/canada/design/design-system.html" target="_blank" rel="noopener noreferrer">SAP</a></td>
+<td style="width: 33.365%; height: 50.0208px;">SAP</td>
+<td style="width: 33.2224%; height: 50.0208px;"> </td>
+</tr>
+<tr style="height: 50.0208px;">
+<td style="width: 33.365%; height: 50.0208px;"><a href="https://rambler-digital-solutions.github.io/rambler-ui/" target="_blank" rel="noopener noreferrer">Ratio</a></td>
+<td style="width: 33.365%; height: 50.0208px;">Rambler</td>
+<td style="width: 33.2224%; height: 50.0208px;"> </td>
+</tr>
+<tr style="height: 50.0208px;">
+<td style="width: 33.365%; height: 50.0208px;"><a href="https://www.welcome-ui.com/" target="_blank" rel="noopener noreferrer">Welcome</a></td>
+<td style="width: 33.365%; height: 50.0208px;"> </td>
+<td style="width: 33.2224%; height: 50.0208px;"> </td>
+</tr>
+<tr style="height: 50.0208px;">
+<td style="width: 33.365%; height: 50.0208px;"><a href="https://balena-io-modules.github.io/rendition/?path=/story/core-accordion--default" target="_blank" rel="noopener noreferrer">Rendition</a></td>
+<td style="width: 33.365%; height: 50.0208px;"><a href="https://www.balena.io/" target="_blank" rel="noopener noreferrer">Balena</a></td>
+<td style="width: 33.2224%; height: 50.0208px;"> </td>
+</tr>
+<tr style="height: 50.0208px;">
+<td style="width: 33.365%; height: 50.0208px;"><a href="https://priceline.github.io/design-system/" target="_blank" rel="noopener noreferrer">Priceline</a></td>
+<td style="width: 33.365%; height: 50.0208px;"> </td>
+<td style="width: 33.2224%; height: 50.0208px;"> </td>
+</tr>
+<tr style="height: 50.0208px;">
+<td style="width: 33.365%; height: 50.0208px;"><a href="https://designsystem.porsche.com/v3/" target="_blank" rel="noopener noreferrer">Porsche</a></td>
+<td style="width: 33.365%; height: 50.0208px;"> </td>
+<td style="width: 33.2224%; height: 50.0208px;"> </td>
+</tr>
+<tr style="height: 50.0208px;">
+<td style="width: 33.365%; height: 50.0208px;"><a href="https://design-system.pluralsight.com/" target="_blank" rel="noopener noreferrer">Pluralsight</a></td>
+<td style="width: 33.365%; height: 50.0208px;"><a href="https://www.pluralsight.com/" target="_blank" rel="noopener noreferrer">Pluralsight</a></td>
+<td style="width: 33.2224%; height: 50.0208px;"> </td>
+</tr>
+<tr style="height: 50.0208px;">
+<td style="width: 33.365%; height: 50.0208px;"><a href="https://pivotal-cf.github.io/pivotal-ui/" target="_blank" rel="noopener noreferrer">Pivotal</a></td>
+<td style="width: 33.365%; height: 50.0208px;"> </td>
+<td style="width: 33.2224%; height: 50.0208px;"> </td>
+</tr>
+<tr style="height: 50.0208px;">
+<td style="width: 33.365%; height: 50.0208px;"><a href="https://pharos.jstor.org/" target="_blank" rel="noopener noreferrer">JSTOR</a></td>
+<td style="width: 33.365%; height: 50.0208px;"> </td>
+<td style="width: 33.2224%; height: 50.0208px;"> </td>
+</tr>
+<tr style="height: 50.0208px;">
+<td style="width: 33.365%; height: 50.0208px;"><a href="https://privy-open-source.github.io/design-system/" target="_blank" rel="noopener noreferrer">Persona </a></td>
+<td style="width: 33.365%; height: 50.0208px;">Privy</td>
+<td style="width: 33.2224%; height: 50.0208px;"> </td>
+</tr>
+<tr style="height: 50.0208px;">
+<td style="width: 33.365%; height: 50.0208px;"><a href="https://www.patternfly.org/" target="_blank" rel="noopener noreferrer">PatternFly</a></td>
+<td style="width: 33.365%; height: 50.0208px;"> </td>
+<td style="width: 33.2224%; height: 50.0208px;"> </td>
+</tr>
+<tr style="height: 50.0208px;">
+<td style="width: 33.365%; height: 50.0208px;"><a href="https://www.oracle.com/webfolder/ux/middleware/alta/index.html" target="_blank" rel="noopener noreferrer">Alta</a></td>
+<td style="width: 33.365%; height: 50.0208px;">Oracle</td>
+<td style="width: 33.2224%; height: 50.0208px;"> </td>
+</tr>
+<tr style="height: 50.0208px;">
+<td style="width: 33.365%; height: 50.0208px;"><a href="https://redwood.oracle.com/" target="_blank" rel="noopener noreferrer">Redwood</a></td>
+<td style="width: 33.365%; height: 50.0208px;">Oracle</td>
+<td style="width: 33.2224%; height: 50.0208px;"> </td>
+</tr>
+<tr style="height: 50.0208px;">
+<td style="width: 33.365%; height: 50.0208px;"><a href="https://designsystem.ontario.ca/" target="_blank" rel="noopener noreferrer">Ontario</a></td>
+<td style="width: 33.365%; height: 50.0208px;">安大略省政府</td>
+<td style="width: 33.2224%; height: 50.0208px;"> </td>
+</tr>
+<tr style="height: 50.0208px;">
+<td style="width: 33.365%; height: 50.0208px;"><a href="https://github.com/okta/odyssey" target="_blank" rel="noopener noreferrer">Odyssey</a></td>
+<td style="width: 33.365%; height: 50.0208px;"><a href="https://www.okta.com/" target="_blank" rel="noopener noreferrer">Okta</a></td>
+<td style="width: 33.2224%; height: 50.0208px;"> </td>
+</tr>
+<tr style="height: 50.0208px;">
+<td style="width: 33.365%; height: 50.0208px;"><a href="https://github.com/bruffridge/nasawds" target="_blank" rel="noopener noreferrer">nasawds</a></td>
+<td style="width: 33.365%; height: 50.0208px;">NASA</td>
+<td style="width: 33.2224%; height: 50.0208px;"> </td>
+</tr>
+<tr style="height: 50.0208px;">
+<td style="width: 33.365%; height: 50.0208px;"><a href="https://service-manual.nhs.uk/" target="_blank" rel="noopener noreferrer">NHS</a></td>
+<td style="width: 33.365%; height: 50.0208px;">NHS</td>
+<td style="width: 33.2224%; height: 50.0208px;"> </td>
+</tr>
+<tr style="height: 50.0208px;">
+<td style="width: 33.365%; height: 50.0208px;"><a href="https://www.nationbuilder.design/" target="_blank" rel="noopener noreferrer">Radius</a></td>
+<td style="width: 33.365%; height: 50.0208px;">NationBuilder</td>
+<td style="width: 33.2224%; height: 50.0208px;"> </td>
+</tr>
+<tr style="height: 50.0208px;">
+<td style="width: 33.365%; height: 50.0208px;"><a href="https://protocol.mozilla.org/" target="_blank" rel="noopener noreferrer">Protocol</a></td>
+<td style="width: 33.365%; height: 50.0208px;">Mozilla</td>
+<td style="width: 33.2224%; height: 50.0208px;"> </td>
+</tr>
+<tr style="height: 50.0208px;">
+<td style="width: 33.365%; height: 50.0208px;"><a href="https://designsystem.morningstar.com/" target="_blank" rel="noopener noreferrer">Morningstar</a></td>
+<td style="width: 33.365%; height: 50.0208px;"> </td>
+<td style="width: 33.2224%; height: 50.0208px;"> </td>
+</tr>
+<tr style="height: 50.0208px;">
+<td style="width: 33.365%; height: 50.0208px;"><a href="https://monzo.com/tone-of-voice/" target="_blank" rel="noopener noreferrer">Monzo</a></td>
+<td style="width: 33.365%; height: 50.0208px;"> </td>
+<td style="width: 33.2224%; height: 50.0208px;"> </td>
+</tr>
+<tr style="height: 50.0208px;">
+<td style="width: 33.365%; height: 50.0208px;"><a href="https://www.mongodb.design/" target="_blank" rel="noopener noreferrer">LeafyGreen</a></td>
+<td style="width: 33.365%; height: 50.0208px;">MongoDB</td>
+<td style="width: 33.2224%; height: 50.0208px;"> </td>
+</tr>
+<tr style="height: 50.0208px;">
+<td style="width: 33.365%; height: 50.0208px;"><a href="https://www.meshdesignsystem.com/" target="_blank" rel="noopener noreferrer">Mesh</a></td>
+<td style="width: 33.365%; height: 50.0208px;"> </td>
+<td style="width: 33.2224%; height: 50.0208px;"> </td>
+</tr>
+<tr style="height: 50.0208px;">
+<td style="width: 33.365%; height: 50.0208px;"><a href="https://www.figma.com/@vk" target="_blank" rel="noopener noreferrer">VK</a></td>
+<td style="width: 33.365%; height: 50.0208px;"> </td>
+<td style="width: 33.2224%; height: 50.0208px;"> </td>
+</tr>
+<tr style="height: 50.0208px;">
+<td style="width: 33.365%; height: 50.0208px;"><a href="https://manual.louderthanten.com/" target="_blank" rel="noopener noreferrer">Louder Than Ten</a></td>
+<td style="width: 33.365%; height: 50.0208px;"> </td>
+<td style="width: 33.2224%; height: 50.0208px;"> </td>
+</tr>
+<tr style="height: 50.0208px;">
+<td style="width: 33.365%; height: 50.0208px;"><a href="https://liferay.design/lexicon/" target="_blank" rel="noopener noreferrer">Lexicon</a></td>
+<td style="width: 33.365%; height: 50.0208px;"><a href="https://www.liferay.com/" target="_blank" rel="noopener noreferrer">Liferay</a></td>
+<td style="width: 33.2224%; height: 50.0208px;"> </td>
+</tr>
+<tr style="height: 50.0208px;">
+<td style="width: 33.365%; height: 50.0208px;"><a href="https://orbit.kiwi/" target="_blank" rel="noopener noreferrer">Orbit</a></td>
+<td style="width: 33.365%; height: 50.0208px;"><a href="Kiwi.com" target="_blank" rel="noopener noreferrer"></a><a target="_blank" rel="noopener noreferrer">Kiwi.com</a></td>
+<td style="width: 33.2224%; height: 50.0208px;">旅行</td>
+</tr>
+<tr style="height: 50.0208px;">
+<td style="width: 33.365%; height: 50.0208px;"><a href="https://cultureamp.design/?path=/docs/introduction-welcome--docs" target="_blank" rel="noopener noreferrer">Kaizen</a></td>
+<td style="width: 33.365%; height: 50.0208px;"><a href="https://www.cultureamp.com/" target="_blank" rel="noopener noreferrer">Culture Amp</a></td>
+<td style="width: 33.2224%; height: 50.0208px;"> </td>
+</tr>
+<tr style="height: 50.0208px;">
+<td style="width: 33.365%; height: 50.0208px;"><a href="https://public-ui.github.io/en/docs/get-started/first-steps" target="_blank" rel="noopener noreferrer"></a><a href="https://public-ui.github.io/en/docs" target="_blank" rel="noopener noreferrer">KoliBri</a></td>
+<td style="width: 33.365%; height: 50.0208px;"> </td>
+<td style="width: 33.2224%; height: 50.0208px;"> </td>
+</tr>
+<tr style="height: 50.0208px;">
+<td style="width: 33.365%; height: 50.0208px;"><a href="https://github.com/skbkontur/retail-ui/?tab=readme-ov-file" target="_blank" rel="noopener noreferrer">Retail</a></td>
+<td style="width: 33.365%; height: 50.0208px;"> </td>
+<td style="width: 33.2224%; height: 50.0208px;"> </td>
+</tr>
+<tr style="height: 50.0208px;">
+<td style="width: 33.365%; height: 50.0208px;"><a href="https://jetbrains.github.io/ring-ui/master/index.html" target="_blank" rel="noopener noreferrer">Ring</a></td>
+<td style="width: 33.365%; height: 50.0208px;">JetBrains</td>
+<td style="width: 33.2224%; height: 50.0208px;"> </td>
+</tr>
+<tr style="height: 50.0208px;">
+<td style="width: 33.365%; height: 50.0208px;"><a href="https://atlantis.getjobber.com/?path=/docs/introduction--docs" target="_blank" rel="noopener noreferrer">Atlantis</a></td>
+<td style="width: 33.365%; height: 50.0208px;"><a href="https://getjobber.com/" target="_blank" rel="noopener noreferrer">Jobber</a></td>
+<td style="width: 33.2224%; height: 50.0208px;"> </td>
+</tr>
+<tr style="height: 50.0208px;">
+<td style="width: 33.365%; height: 50.0208px;"><a href="https://overdrive.autoguru.io/?path=/story/components-table--standard" target="_blank" rel="noopener noreferrer">AutoGuru</a></td>
+<td style="width: 33.365%; height: 50.0208px;"> </td>
+<td style="width: 33.2224%; height: 50.0208px;"> </td>
+</tr>
+<tr style="height: 50.0208px;">
+<td style="width: 33.365%; height: 50.0208px;"><a href="https://biings.design/#/" target="_blank" rel="noopener noreferrer">Biings</a></td>
+<td style="width: 33.365%; height: 50.0208px;"><a href="https://biings.com/" target="_blank" rel="noopener noreferrer"></a><a href="https://biings.com/" target="_blank" rel="noopener noreferrer">Biings</a></td>
+<td style="width: 33.2224%; height: 50.0208px;"> </td>
+</tr>
+<tr style="height: 50.0208px;">
+<td style="width: 33.365%; height: 50.0208px;"><a href="https://design.brainly.com/8adfd5f36/p/10bcb9-pencil" target="_blank" rel="noopener noreferrer">Pencil</a></td>
+<td style="width: 33.365%; height: 50.0208px;">Brainly</td>
+<td style="width: 33.2224%; height: 50.0208px;"> </td>
+</tr>
+<tr style="height: 50.0208px;">
+<td style="width: 33.365%; height: 50.0208px;"><a href="https://momentum.design/" target="_blank" rel="noopener noreferrer">Momentum</a></td>
+<td style="width: 33.365%; height: 50.0208px;">Cisco</td>
+<td style="width: 33.2224%; height: 50.0208px;"> </td>
+</tr>
+<tr style="height: 50.0208px;">
+<td style="width: 33.365%; height: 50.0208px;"><a href="https://druids.datadoghq.com/" target="_blank" rel="noopener noreferrer">Druids</a></td>
+<td style="width: 33.365%; height: 50.0208px;">DataDog</td>
+<td style="width: 33.2224%; height: 50.0208px;">内用</td>
+</tr>
+<tr style="height: 50.0208px;">
+<td style="width: 33.365%; height: 50.0208px;"><a href="https://www.delldesignsystem.com/" target="_blank" rel="noopener noreferrer">Dell</a></td>
+<td style="width: 33.365%; height: 50.0208px;">Dell</td>
+<td style="width: 33.2224%; height: 50.0208px;"> </td>
+</tr>
+<tr style="height: 50.0208px;">
+<td style="width: 33.365%; height: 50.0208px;"><a href="https://watson.docplanner.design/" target="_blank" rel="noopener noreferrer">Watson</a></td>
+<td style="width: 33.365%; height: 50.0208px;"><a href="https://www.docplanner.com/" target="_blank" rel="noopener noreferrer">Docplanner</a></td>
+<td style="width: 33.2224%; height: 50.0208px;"> </td>
+</tr>
+<tr style="height: 50.0208px;">
+<td style="width: 33.365%; height: 50.0208px;"><a href="https://developers.arcgis.com/calcite-design-system/" target="_blank" rel="noopener noreferrer">Calcite</a></td>
+<td style="width: 33.365%; height: 50.0208px;"><a href="https://www.esri.com/en-us/home" target="_blank" rel="noopener noreferrer">Esri</a></td>
+<td style="width: 33.2224%; height: 50.0208px;">GIS</td>
+</tr>
+<tr style="height: 78.8125px;">
+<td style="width: 33.365%; height: 78.8125px;"><a href="https://ethosdesignsystem.com/" target="_blank" rel="noopener noreferrer">Ethos</a></td>
+<td style="width: 33.365%; height: 78.8125px;">General Electric Healthcare</td>
+<td style="width: 33.2224%; height: 78.8125px;"> </td>
+</tr>
+<tr style="height: 50.0208px;">
+<td style="width: 33.365%; height: 50.0208px;"><a href="https://workbench.gusto.com/" target="_blank" rel="noopener noreferrer">Workbench</a></td>
+<td style="width: 33.365%; height: 50.0208px;"><a href="https://gusto.com/" target="_blank" rel="noopener noreferrer">Gusto</a></td>
+<td style="width: 33.2224%; height: 50.0208px;"> </td>
+</tr>
+<tr style="height: 50.0208px;">
+<td style="width: 33.365%; height: 50.0208px;"><a href="https://www.helixui.com/9904796d6/p/19ace3-helix" target="_blank" rel="noopener noreferrer">Helix</a></td>
+<td style="width: 33.365%; height: 50.0208px;">Ideagen</td>
+<td style="width: 33.2224%; height: 50.0208px;"> </td>
+</tr>
+<tr style="height: 50.0208px;">
+<td style="width: 33.365%; height: 50.0208px;"><a href="https://www.inps.design/3e7e2b0f5/p/36d118-progettare-per-il-cittadino" target="_blank" rel="noopener noreferrer">Sirio</a></td>
+<td style="width: 33.365%; height: 50.0208px;">INPS</td>
+<td style="width: 33.2224%; height: 50.0208px;"> </td>
+</tr>
+<tr style="height: 50.0208px;">
+<td style="width: 33.365%; height: 50.0208px;"><a href="https://sage.kajabi.com/pages/index" target="_blank" rel="noopener noreferrer">Sage</a></td>
+<td style="width: 33.365%; height: 50.0208px;">Kajabi</td>
+<td style="width: 33.2224%; height: 50.0208px;"> </td>
+</tr>
+<tr style="height: 50.0208px;">
+<td style="width: 33.365%; height: 50.0208px;"><a href="https://designsystem.line.me/" target="_blank" rel="noopener noreferrer">Line</a></td>
+<td style="width: 33.365%; height: 50.0208px;">Line</td>
+<td style="width: 33.2224%; height: 50.0208px;"> </td>
+</tr>
+<tr style="height: 50.0208px;">
+<td style="width: 33.365%; height: 50.0208px;"><a href="https://ux.mailchimp.com/patterns/color" target="_blank" rel="noopener noreferrer">Mailchimp</a></td>
+<td style="width: 33.365%; height: 50.0208px;">Mailchimp</td>
+<td style="width: 33.2224%; height: 50.0208px;"> </td>
+</tr>
+<tr style="height: 50.0208px;">
+<td style="width: 33.365%; height: 50.0208px;"><a href="https://developers.miro.com/docs/design-guidelines#components" target="_blank" rel="noopener noreferrer">Miro</a></td>
+<td style="width: 33.365%; height: 50.0208px;"> </td>
+<td style="width: 33.2224%; height: 50.0208px;"> </td>
+</tr>
+<tr style="height: 50.0208px;">
+<td style="width: 33.365%; height: 50.0208px;"><a href="https://nordhealth.design/" target="_blank" rel="noopener noreferrer">Nord</a></td>
+<td style="width: 33.365%; height: 50.0208px;"><a href="https://nordhealth.com/" target="_blank" rel="noopener noreferrer">Nordhealth</a></td>
+<td style="width: 33.2224%; height: 50.0208px;"> </td>
+</tr>
+<tr style="height: 50.0208px;">
+<td style="width: 33.365%; height: 50.0208px;"><a href="https://system.design.orange.com/0c1af118d/p/0127c5-orange-design-system" target="_blank" rel="noopener noreferrer">Orange</a></td>
+<td style="width: 33.365%; height: 50.0208px;">Orange</td>
+<td style="width: 33.2224%; height: 50.0208px;"> </td>
+</tr>
+<tr style="height: 50.0208px;">
+<td style="width: 33.365%; height: 50.0208px;"><a href="https://blueprintjs.com/docs/" target="_blank" rel="noopener noreferrer">Blueprint</a></td>
+<td style="width: 33.365%; height: 50.0208px;"><a href="https://www.palantir.com/" target="_blank" rel="noopener noreferrer">Palantir</a></td>
+<td style="width: 33.2224%; height: 50.0208px;"> </td>
+</tr>
+<tr style="height: 50.0208px;">
+<td style="width: 33.365%; height: 50.0208px;"><a href="https://designsystem.porsche.com/v3/" target="_blank" rel="noopener noreferrer">Porsche</a></td>
+<td style="width: 33.365%; height: 50.0208px;">Porsche</td>
+<td style="width: 33.2224%; height: 50.0208px;"> </td>
+</tr>
+<tr style="height: 50.0208px;">
+<td style="width: 33.365%; height: 50.0208px;"><a href="https://blade.razorpay.com/?path=/docs/guides-intro--docs" target="_blank" rel="noopener noreferrer">Blade</a></td>
+<td style="width: 33.365%; height: 50.0208px;"><a href="https://razorpay.com/" target="_blank" rel="noopener noreferrer">Razorpay</a></td>
+<td style="width: 33.2224%; height: 50.0208px;">支付</td>
+</tr>
+<tr style="height: 50.0208px;">
+<td style="width: 33.365%; height: 50.0208px;"><a href="https://horizon.servicenow.com/" target="_blank" rel="noopener noreferrer">Horizon</a></td>
+<td style="width: 33.365%; height: 50.0208px;">ServiceNow</td>
+<td style="width: 33.2224%; height: 50.0208px;"> </td>
+</tr>
+<tr style="height: 50.0208px;">
+<td style="width: 33.365%; height: 50.0208px;"><a href="https://flow.skoda-brand.com/d/6aQMrmD6PhWL" target="_blank" rel="noopener noreferrer">Flow</a></td>
+<td style="width: 33.365%; height: 50.0208px;">Skoda</td>
+<td style="width: 33.2224%; height: 50.0208px;"> </td>
+</tr>
+<tr style="height: 50.0208px;">
+<td style="width: 33.365%; height: 50.0208px;"><a href="https://solar.sunrise.net/" target="_blank" rel="noopener noreferrer">Solar</a></td>
+<td style="width: 33.365%; height: 50.0208px;">Sunrise</td>
+<td style="width: 33.2224%; height: 50.0208px;"> </td>
+</tr>
+<tr style="height: 50.0208px;">
+<td style="width: 33.365%; height: 50.0208px;"><a href="https://ahoy.teamleader.design/3547946e7/p/223d3f-ahoy" target="_blank" rel="noopener noreferrer">Ahoy</a></td>
+<td style="width: 33.365%; height: 50.0208px;">Teamleader</td>
+<td style="width: 33.2224%; height: 50.0208px;"> </td>
+</tr>
+<tr style="height: 50.0208px;">
+<td style="width: 33.365%; height: 50.0208px;"><a href="https://build.washingtonpost.com/" target="_blank" rel="noopener noreferrer">WPDS</a></td>
+<td style="width: 33.365%; height: 50.0208px;">华盛顿邮报</td>
+<td style="width: 33.2224%; height: 50.0208px;"> </td>
+</tr>
+<tr style="height: 50.0208px;">
+<td style="width: 33.365%; height: 50.0208px;"><a href="https://doc.wikimedia.org/codex/latest/" target="_blank" rel="noopener noreferrer">Codex</a></td>
+<td style="width: 33.365%; height: 50.0208px;">Wikimedia</td>
+<td style="width: 33.2224%; height: 50.0208px;"> </td>
+</tr>
+<tr style="height: 50.0208px;">
+<td style="width: 33.365%; height: 50.0208px;"><a href="https://wise.design/" target="_blank" rel="noopener noreferrer">Wise</a></td>
+<td style="width: 33.365%; height: 50.0208px;">Wise</td>
+<td style="width: 33.2224%; height: 50.0208px;"> </td>
+</tr>
+<tr style="height: 50.0208px;">
+<td style="width: 33.365%; height: 50.0208px;"><a href="https://design.wonderflow.ai/" target="_blank" rel="noopener noreferrer">Wanda</a></td>
+<td style="width: 33.365%; height: 50.0208px;"><a href="http://wonderflow.ai" target="_blank" rel="noopener noreferrer">Wonderflow</a></td>
+<td style="width: 33.2224%; height: 50.0208px;"> </td>
+</tr>
+<tr style="height: 50.0208px;">
+<td style="width: 33.365%; height: 50.0208px;"><a href="https://www.radix-ui.com/" target="_blank" rel="noopener noreferrer">Radix</a></td>
+<td style="width: 33.365%; height: 50.0208px;"><a href="https://workos.com/" target="_blank" rel="noopener noreferrer">WorkOS</a></td>
+<td style="width: 33.2224%; height: 50.0208px;"> </td>
+</tr>
+<tr style="height: 50.0208px;">
+<td style="width: 33.365%; height: 50.0208px;"><a href="https://design.hellyhansen.com/1b4c2ca6d/p/19db4a-helly-hansen-design-portal" target="_blank" rel="noopener noreferrer">Helly Hansen</a></td>
+<td style="width: 33.365%; height: 50.0208px;">Helly Hansen</td>
+<td style="width: 33.2224%; height: 50.0208px;"> </td>
+</tr>
+<tr style="height: 50.0208px;">
+<td style="width: 33.365%; height: 50.0208px;"><a href="https://baklava.design/?path=/docs/documentation-welcome--documentation" target="_blank" rel="noopener noreferrer">Baklava</a></td>
+<td style="width: 33.365%; height: 50.0208px;"><a href="https://trendyol.github.io/" target="_blank" rel="noopener noreferrer">Trendyol</a></td>
+<td style="width: 33.2224%; height: 50.0208px;"> </td>
+</tr>
+<tr style="height: 50.0208px;">
+<td style="width: 33.365%; height: 50.0208px;"><a href="https://github.com/kobaltedev/pigment" target="_blank" rel="noopener noreferrer">Pigment</a></td>
+<td style="width: 33.365%; height: 50.0208px;"><a href="https://github.com/kobaltedev" target="_blank" rel="noopener noreferrer">Kobaltedev</a></td>
+<td style="width: 33.2224%; height: 50.0208px;"> </td>
+</tr>
+<tr style="height: 50.0208px;">
+<td style="width: 33.365%; height: 50.0208px;"><a href="https://xiaomi.github.io/hiui/" target="_blank" rel="noopener noreferrer">Hi</a></td>
+<td style="width: 33.365%; height: 50.0208px;"><a href="https://www.mi.com/" target="_blank" rel="noopener noreferrer">小米</a></td>
+<td style="width: 33.2224%; height: 50.0208px;">中后台</td>
+</tr>
+<tr style="height: 50.0208px;">
+<td style="width: 33.365%; height: 50.0208px;"><a href="https://charcoal-web.pixiv.design/?path=/docs/readme--docs" target="_blank" rel="noopener noreferrer">Charcoal</a></td>
+<td style="width: 33.365%; height: 50.0208px;"><a href="https://www.pixiv.net/" target="_blank" rel="noopener noreferrer">Pixiv</a></td>
+<td style="width: 33.2224%; height: 50.0208px;"> </td>
+</tr>
+<tr style="height: 50.0208px;">
+<td style="width: 33.365%; height: 50.0208px;"><a href="https://priceline.github.io/design-system/" target="_blank" rel="noopener noreferrer">Priceline</a></td>
+<td style="width: 33.365%; height: 50.0208px;"><a href="https://www.priceline.com/" target="_blank" rel="noopener noreferrer">Priceline</a></td>
+<td style="width: 33.2224%; height: 50.0208px;"> </td>
+</tr>
+<tr style="height: 50.0208px;">
+<td style="width: 33.365%; height: 50.0208px;"><a href="https://pink.appwrite.io/" target="_blank" rel="noopener noreferrer">Pink</a></td>
+<td style="width: 33.365%; height: 50.0208px;">Appwrite</td>
+<td style="width: 33.2224%; height: 50.0208px;"> </td>
+</tr>
+<tr style="height: 50.0208px;">
+<td style="width: 33.365%; height: 50.0208px;"><a href="https://moon.io/" target="_blank" rel="noopener noreferrer">Moon</a></td>
+<td style="width: 33.365%; height: 50.0208px;"><a href="https://yolo.com/" target="_blank" rel="noopener noreferrer">Yolo</a></td>
+<td style="width: 33.2224%; height: 50.0208px;"> </td>
+</tr>
+<tr style="height: 78.8125px;">
+<td style="width: 33.365%; height: 78.8125px;"><a href="https://hds.hel.fi/" target="_blank" rel="noopener noreferrer">HDS</a></td>
+<td style="width: 33.365%; height: 78.8125px;">
+<p class="Hero-module_title__3-FB4 hero_hds-hero__title__3Ue67" data-immersive-translate-walked="a7bbd532-840f-46aa-a9e9-f49f775479c1" data-immersive-translate-paragraph="1">赫尔辛基</p>
+</td>
+<td style="width: 33.2224%; height: 78.8125px;"> </td>
+</tr>
+<tr style="height: 50.0208px;">
+<td style="width: 33.365%; height: 50.0208px;"><a href="https://juntossomosmais.github.io/atomium/?path=/docs/introduction--docs" target="_blank" rel="noopener noreferrer">Atomium</a></td>
+<td style="width: 33.365%; height: 50.0208px;"><a href="https://juntossomosmais.com.br/">Juntos Somos Mais</a></td>
+<td style="width: 33.2224%; height: 50.0208px;"> </td>
+</tr>
+<tr style="height: 50.0208px;">
+<td style="width: 33.365%; height: 50.0208px;"><a href="https://developer.semrush.com/intergalactic/" target="_blank" rel="noopener noreferrer">Intergalactic</a></td>
+<td style="width: 33.365%; height: 50.0208px;"><a href="https://www.semrush.com/" target="_blank" rel="noopener noreferrer">Semrush</a></td>
+<td style="width: 33.2224%; height: 50.0208px;"> </td>
+</tr>
+<tr style="height: 50.0208px;">
+<td style="width: 33.365%; height: 50.0208px;"><a href="https://ux.redhat.com/" target="_blank" rel="noopener noreferrer">Red Hat</a></td>
+<td style="width: 33.365%; height: 50.0208px;">Red Hat</td>
+<td style="width: 33.2224%; height: 50.0208px;"> </td>
+</tr>
+<tr style="height: 50.0208px;">
+<td style="width: 33.365%; height: 50.0208px;"><a href="https://opentable.github.io/design-tokens/" target="_blank" rel="noopener noreferrer">Opentable</a></td>
+<td style="width: 33.365%; height: 50.0208px;"> </td>
+<td style="width: 33.2224%; height: 50.0208px;"> </td>
+</tr>
+<tr style="height: 50.0208px;">
+<td style="width: 33.365%; height: 50.0208px;"><a href="https://blog.cobalt.run/co-design/?path=/story/co-design-core-affix--default" target="_blank" rel="noopener noreferrer">Co</a></td>
+<td style="width: 33.365%; height: 50.0208px;"><a href="https://cobalt.run/" target="_blank" rel="noopener noreferrer">Cobalt</a></td>
+<td style="width: 33.2224%; height: 50.0208px;"> </td>
+</tr>
+<tr style="height: 50.0208px;">
+<td style="width: 33.365%; height: 50.0208px;"><a href="https://apsara-raystack.vercel.app/" target="_blank" rel="noopener noreferrer">Apsara</a></td>
+<td style="width: 33.365%; height: 50.0208px;"><a href="https://raystack.org/" target="_blank" rel="noopener noreferrer">Raystack</a></td>
+<td style="width: 33.2224%; height: 50.0208px;"> </td>
+</tr>
+<tr style="height: 50.0208px;">
+<td style="width: 33.365%; height: 50.0208px;"><a href="https://design.sis.gov.uk/" target="_blank" rel="noopener noreferrer">ICDS</a></td>
+<td style="width: 33.365%; height: 50.0208px;"><a href="https://www.sis.gov.uk/" target="_blank" rel="noopener noreferrer">SIS</a></td>
+<td style="width: 33.2224%; height: 50.0208px;">情报界</td>
+</tr>
+<tr style="height: 50.0208px;">
+<td style="width: 33.365%; height: 50.0208px;"><a href="https://designsystem.hitachivantara.com/6c705d900/p/43c9a1-next-design-system" target="_blank" rel="noopener noreferrer">Next</a></td>
+<td style="width: 33.365%; height: 50.0208px;">Hitachi Vantara</td>
+<td style="width: 33.2224%; height: 50.0208px;"> </td>
+</tr>
+<tr style="height: 50.0208px;">
+<td style="width: 33.365%; height: 50.0208px;"><a href="https://devui.design/home" target="_blank" rel="noopener noreferrer">Dev</a></td>
+<td style="width: 33.365%; height: 50.0208px;">华为</td>
+<td style="width: 33.2224%; height: 50.0208px;">中后台</td>
+</tr>
+<tr style="height: 50.0208px;">
+<td style="width: 33.365%; height: 50.0208px;"><a href="https://launchpad.launchdarkly.com/?path=/docs/foundations-icons--docs" target="_blank" rel="noopener noreferrer">LaunchDarkly</a></td>
+<td style="width: 33.365%; height: 50.0208px;"><a href="https://launchdarkly.com/" target="_blank" rel="noopener noreferrer">LaunchDarkly</a></td>
+<td style="width: 33.2224%; height: 50.0208px;"> </td>
+</tr>
+<tr style="height: 50.0208px;">
+<td style="width: 33.365%; height: 50.0208px;"><a href="https://jadu.github.io/pulsar/" target="_blank" rel="noopener noreferrer">Pulsar</a></td>
+<td style="width: 33.365%; height: 50.0208px;">Jadu</td>
+<td style="width: 33.2224%; height: 50.0208px;"> </td>
+</tr>
+<tr style="height: 78.8125px;">
+<td style="width: 33.365%; height: 78.8125px;"><a href="https://designsystem.gov.ae/" target="_blank" rel="noopener noreferrer">UAE</a></td>
+<td style="width: 33.365%; height: 78.8125px;">阿拉伯联合酋长国联邦网站</td>
+<td style="width: 33.2224%; height: 78.8125px;"> </td>
+</tr>
+<tr style="height: 50.0208px;">
+<td style="width: 33.365%; height: 50.0208px;"><a href="https://openfun.github.io/cunningham/storybook/" target="_blank" rel="noopener noreferrer">Cunningham</a></td>
+<td style="width: 33.365%; height: 50.0208px;"><a href="http://www.france-universite-numerique.fr/en/" target="_blank" rel="noopener noreferrer">法国数字大学</a></td>
+<td style="width: 33.2224%; height: 50.0208px;"> </td>
+</tr>
+<tr style="height: 50.0208px;">
+<td style="width: 33.365%; height: 50.0208px;"><a href="https://playbook.powerapp.cloud/" target="_blank" rel="noopener noreferrer">Playbook</a></td>
+<td style="width: 33.365%; height: 50.0208px;"><a href="https://powerhrg.com/" target="_blank" rel="noopener noreferrer">Power</a></td>
+<td style="width: 33.2224%; height: 50.0208px;"> </td>
+</tr>
+<tr style="height: 50.0208px;">
+<td style="width: 33.365%; height: 50.0208px;"><a href="https://docs.optics.rolemodel.design/?path=/docs/introduction--docs" target="_blank" rel="noopener noreferrer">Optics</a></td>
+<td style="width: 33.365%; height: 50.0208px;">RoleModel</td>
+<td style="width: 33.2224%; height: 50.0208px;"> </td>
+</tr>
+<tr style="height: 50.0208px;">
+<td style="width: 33.365%; height: 50.0208px;"><a href="https://nimbus.nuvemshop.com.br/" target="_blank" rel="noopener noreferrer">Nimbus</a></td>
+<td style="width: 33.365%; height: 50.0208px;">Nuvem Shop</td>
+<td style="width: 33.2224%; height: 50.0208px;"> </td>
+</tr>
+<tr style="height: 50.0208px;">
+<td style="width: 33.365%; height: 50.0208px;"><a href="http://storybook.upfluence.co/?path=/story/getting-started-introduction--page" target="_blank" rel="noopener noreferrer">OSS </a></td>
+<td style="width: 33.365%; height: 50.0208px;">Upfluence</td>
+<td style="width: 33.2224%; height: 50.0208px;"> </td>
+</tr>
+<tr style="height: 50.0208px;">
+<td style="width: 33.365%; height: 50.0208px;"><a href="https://greensight.github.io/gds/" target="_blank" rel="noopener noreferrer">GDS</a></td>
+<td style="width: 33.365%; height: 50.0208px;"><a href="https://greensight.pro/" target="_blank" rel="noopener noreferrer">Greensight</a></td>
+<td style="width: 33.2224%; height: 50.0208px;"> </td>
+</tr>
+<tr style="height: 50.0208px;">
+<td style="width: 33.365%; height: 50.0208px;"><a href="https://anvil.servicetitan.com/" target="_blank" rel="noopener noreferrer">Anvil</a></td>
+<td style="width: 33.365%; height: 50.0208px;">ServiceTitan </td>
+<td style="width: 33.2224%; height: 50.0208px;"> </td>
+</tr>
+<tr style="height: 50.0208px;">
+<td style="width: 33.365%; height: 50.0208px;"><a href="https://asphalt.gojek.io/" target="_blank" rel="noopener noreferrer">Asphalt Aloha</a></td>
+<td style="width: 33.365%; height: 50.0208px;">Gojek</td>
+<td style="width: 33.2224%; height: 50.0208px;"> </td>
+</tr>
+<tr style="height: 50.0208px;">
+<td style="width: 33.365%; height: 50.0208px;"><a href="https://www.yelp.com/styleguide" target="_blank" rel="noopener noreferrer">Yelp</a></td>
+<td style="width: 33.365%; height: 50.0208px;">Yelp</td>
+<td style="width: 33.2224%; height: 50.0208px;"> </td>
+</tr>
+<tr style="height: 50.0208px;">
+<td style="width: 33.365%; height: 50.0208px;"><a href="https://feelix.myob.com/#/Home" target="_blank" rel="noopener noreferrer">Feelix</a></td>
+<td style="width: 33.365%; height: 50.0208px;">MYOB</td>
+<td style="width: 33.2224%; height: 50.0208px;"> </td>
+</tr>
+<tr style="height: 50.0208px;">
+<td style="width: 33.365%; height: 50.0208px;"><a href="https://campfire.design/" target="_blank" rel="noopener noreferrer">Campfire</a></td>
+<td style="width: 33.365%; height: 50.0208px;">Morgan Stanley</td>
+<td style="width: 33.2224%; height: 50.0208px;"> </td>
+</tr>
+<tr style="height: 50.0208px;">
+<td style="width: 33.365%; height: 50.0208px;"><a href="https://digitalnsw.github.io/nsw-design-system/" target="_blank" rel="noopener noreferrer">NSW</a></td>
+<td style="width: 33.365%; height: 50.0208px;">新南威尔士州政府</td>
+<td style="width: 33.2224%; height: 50.0208px;"> </td>
+</tr>
+<tr style="height: 50.0208px;">
+<td style="width: 33.365%; height: 50.0208px;"><a href="https://developer.gnome.org/hig/#" target="_blank" rel="noopener noreferrer">Gnome</a></td>
+<td style="width: 33.365%; height: 50.0208px;">Gnome</td>
+<td style="width: 33.2224%; height: 50.0208px;"> </td>
+</tr>
+<tr style="height: 50.0208px;">
+<td style="width: 33.365%; height: 50.0208px;"><a href="https://liferay.design/lexicon/" target="_blank" rel="noopener noreferrer">Lexicon</a></td>
+<td style="width: 33.365%; height: 50.0208px;">Liferay</td>
+<td style="width: 33.2224%; height: 50.0208px;"> </td>
+</tr>
+<tr style="height: 50.0208px;">
+<td style="width: 33.365%; height: 50.0208px;"><a href="https://pulse.heartbeat.ua/" target="_blank" rel="noopener noreferrer">Pulse</a></td>
+<td style="width: 33.365%; height: 50.0208px;">heartbeat</td>
+<td style="width: 33.2224%; height: 50.0208px;"> </td>
+</tr>
+<tr style="height: 50.0208px;">
+<td style="width: 33.365%; height: 50.0208px;"><a href="https://design.blip.ai/" target="_blank" rel="noopener noreferrer">Blip</a></td>
+<td style="width: 33.365%; height: 50.0208px;"> </td>
+<td style="width: 33.2224%; height: 50.0208px;"> </td>
+</tr>
+<tr style="height: 50.0208px;">
+<td style="width: 33.365%; height: 50.0208px;"><a href="https://experience.sap.com/fiori-design-web/" target="_blank" rel="noopener noreferrer">Fiori</a></td>
+<td style="width: 33.365%; height: 50.0208px;">SAP</td>
+<td style="width: 33.2224%; height: 50.0208px;"> </td>
+</tr>
+<tr style="height: 50.0208px;">
+<td style="width: 33.365%; height: 50.0208px;"><a href="https://www.sonnat.dev/" target="_blank" rel="noopener noreferrer">Sonnat</a></td>
+<td style="width: 33.365%; height: 50.0208px;"> </td>
+<td style="width: 33.2224%; height: 50.0208px;"> </td>
+</tr>
+<tr style="height: 50.0208px;">
+<td style="width: 33.365%; height: 50.0208px;"><a href="https://reverb.rockcontent.com/" target="_blank" rel="noopener noreferrer">Reverb</a></td>
+<td style="width: 33.365%; height: 50.0208px;">Rock Content</td>
+<td style="width: 33.2224%; height: 50.0208px;"> </td>
+</tr>
+<tr style="height: 50.0208px;">
+<td style="width: 33.365%; height: 50.0208px;"><a href="https://design.mindsphere.io/" target="_blank" rel="noopener noreferrer">Mindsphere</a></td>
+<td style="width: 33.365%; height: 50.0208px;"> </td>
+<td style="width: 33.2224%; height: 50.0208px;">工业</td>
+</tr>
+<tr style="height: 50.0208px;">
+<td style="width: 33.365%; height: 50.0208px;"><a href="https://design-system.w3.org/" target="_blank" rel="noopener noreferrer">W3C</a></td>
+<td style="width: 33.365%; height: 50.0208px;">W3C</td>
+<td style="width: 33.2224%; height: 50.0208px;"> </td>
+</tr>
+<tr style="height: 50.0208px;">
+<td style="width: 33.365%; height: 50.0208px;"><a href="https://www.engie.design/resources/" target="_blank" rel="noopener noreferrer">Engie</a></td>
+<td style="width: 33.365%; height: 50.0208px;">Engie</td>
+<td style="width: 33.2224%; height: 50.0208px;"> </td>
+</tr>
+<tr style="height: 50.0208px;">
+<td style="width: 33.365%; height: 50.0208px;"><a href="https://gamut.codecademy.com/?path=/story/gamut--page" target="_blank" rel="noopener noreferrer">Gamut</a></td>
+<td style="width: 33.365%; height: 50.0208px;">Codecademy</td>
+<td style="width: 33.2224%; height: 50.0208px;"> </td>
+</tr>
+<tr style="height: 50.0208px;">
+<td style="width: 33.365%; height: 50.0208px;"><a href="https://skyline.benevity.org/" target="_blank" rel="noopener noreferrer">skyline</a></td>
+<td style="width: 33.365%; height: 50.0208px;">benevity</td>
+<td style="width: 33.2224%; height: 50.0208px;"> </td>
+</tr>
+<tr style="height: 50.0208px;">
+<td style="width: 33.365%; height: 50.0208px;"> </td>
+<td style="width: 33.365%; height: 50.0208px;"> </td>
+<td style="width: 33.2224%; height: 50.0208px;"> </td>
+</tr>
+<tr style="height: 50.0208px;">
+<td style="width: 33.365%; height: 50.0208px;"> </td>
+<td style="width: 33.365%; height: 50.0208px;"> </td>
+<td style="width: 33.2224%; height: 50.0208px;"> </td>
+</tr>
+<tr style="height: 50.0208px;">
+<td style="width: 33.365%; height: 50.0208px;"> </td>
+<td style="width: 33.365%; height: 50.0208px;"> </td>
+<td style="width: 33.2224%; height: 50.0208px;"> </td>
 </tr>
 </tbody>
 </table>
-<h2 id="mcetoc_1i5a2vh733b">识别</h2>
-<h3 id="mcetoc_1i5a2vh733c">方法论</h3>
-<h4 id="mcetoc_1i5b1ujl81h">蓝海策略、红海策略</h4>
-<h4 id="triz-theory-of-inventive-problem-solving-in-product-management" data-immersive-translate-walked="4ea295cc-8b13-4672-8b2a-5a4f8dffce49" data-immersive-translate-paragraph="1">TRIZ </h4>
-<h4 id="mcetoc_1i5b1ujl81i">框架问题</h4>
-<h3 id="mcetoc_1i5a420u921c">头脑风暴</h3>
-<h4 id="mcetoc_1i5b1ujl81j">思维导图</h4>
-<h4 id="mcetoc_1i5b1ujl81k">书面头脑</h4>
-<h4 id="scamper" data-immersive-translate-walked="4ea295cc-8b13-4672-8b2a-5a4f8dffce49" data-immersive-translate-paragraph="1">SCAMPER<span class="notranslate immersive-translate-target-wrapper" lang="zh-CN" translate="no" data-immersive-translate-loading-id="247"> </span></h4>
-<h3 id="mcetoc_1i5a420u921d">迭代过程</h3>
-<h4 id="mcetoc_1i5b20ap11p">发现</h4>
-<h4 id="mcetoc_1i5b20ap11q">选择</h4>
-<h4 id="mcetoc_1i5b20ap11r">验证</h4>
-<h4 id="mcetoc_1i5b20ap11s">执行</h4>
-<h2 id="mcetoc_1i5a2vh733d">市场</h2>
-<h3 id="mcetoc_1i5a2vh733e">市场</h3>
-<h4 id="mcetoc_1i5ahrj1jh">市场需求</h4>
-<h4 id="mcetoc_1i5ahrj1ji">竞品分析</h4>
-<h4 id="mcetoc_1i5ahrj1jj">新兴趋势</h4>
-<h3 id="mcetoc_1i5a2vh733f">用户</h3>
-<h4 id="mcetoc_1i5ahrj1jk">角色</h4>
-<h4 id="mcetoc_1i5ahrj1jl">访谈</h4>
-<h4 id="mcetoc_1i5ahrj1jm">调查与问卷</h4>
-<h4 id="mcetoc_1i5ahrj1jn">民族志</h4>
-<h3 id="mcetoc_1i5a2vh733g">产品定位</h3>
-<h4 id="mcetoc_1i5b2aqft20">独特卖点</h4>
-<h4 id="mcetoc_1i5b2aqft21">市场细分</h4>
-<h4 id="mcetoc_1i5b2aqft22">用例研究</h4>
-<h2 id="mcetoc_1i5a2vh733h">策略</h2>
-<h3 id="mcetoc_1i5a3o5o81vu">愿景与使命</h3>
-<h4 id="mcetoc_1i5bg7jh66s8">陈述</h4>
-<h4 id="mcetoc_1i5bg7jh66s9">主张</h4>
-<h4 id="mcetoc_1i5bg7jh66sa">设定</h4>
-<h4 id="mcetoc_1i5bg7jh66sb">眼前障碍、未来障碍</h4>
-<h4 id="mcetoc_1i5bg7jh66sc">参考资料</h4>
-<h4 id="mcetoc_1i5bg7jh66sd">叙事</h4>
-<h3 id="mcetoc_1i5a3o5o81vv">目标</h3>
-<h4 id="mcetoc_1i5bg7jh66se">标的目标</h4>
-<h4 id="mcetoc_1i5bg7jh66sf">基线目标</h4>
-<h4 id="mcetoc_1i5bg7jh66sg">趋势目标</h4>
-<h4 id="mcetoc_1i5bg7jh66sh">时限目标</h4>
-<h3 id="mcetoc_1i5a3o5o8200">价值主张</h3>
-<h4 id="mcetoc_1i5bg7jh66si">定义</h4>
-<h4 id="mcetoc_1i5bg7jh66sj">画布</h4>
-<h3 id="mcetoc_1i5a3o5o8201">价值与特征</h3>
-<h4 id="mcetoc_1i5bg7jh66sk">特征蔓延</h4>
-<h4 id="mcetoc_1i5bg7jh66sl">寻求平衡</h4>
-<h3 id="mcetoc_1i5a3o5o8202">战略思维</h3>
-<h4 id="mcetoc_1i5bg7jh66sm">竞争策略</h4>
-<p>五力分析</p>
-<p>竞争优势</p>
-<h4 id="mcetoc_1i5bg7jh66sn">战略伙伴</h4>
-<p>识别伙伴</p>
-<p>关系管理</p>
-<h2 id="mcetoc_1i5a3o5o8203">规划</h2>
-<h3 id="mcetoc_1i5a3o5o8204">需求</h3>
-<h4 id="mcetoc_1i5bg7jh66so">文档</h4>
-<h4 id="mcetoc_1i5bg7jh66sp">用户故事</h4>
-<h4 id="mcetoc_1i5bg7jh66sq">工作故事</h4>
-<h3 id="mcetoc_1i5a3o5o8205">路线</h3>
-<h4 id="mcetoc_1i5bg7jh66sr">路线图创建</h4>
-<h4 id="mcetoc_1i5bg7jh66ss">功能优先级</h4>
-<h4 id="mcetoc_1i5bg7jh66st">连续路线图</h4>
-<h4 id="mcetoc_1i5bg7jh66su">基于结果的路线图</h4>
-<h4 id="mcetoc_1i5bg7jh66sv">路线图传达</h4>
-<h3 id="mcetoc_1i5a3o5o8206">待办</h3>
-<h4 id="mcetoc_1i5bg7jh66t0">技术优先级</h4>
-<h4 id="mcetoc_1i5bg7jh66t1">整理会议</h4>
-<h4 id="mcetoc_1i5bg7jh66t2">用户故事映射</h4>
-<h2 id="mcetoc_1i5a3o5o8207">设计</h2>
-<h3 id="mcetoc_1i5a3o5o8208">用户体验/用户界面</h3>
-<h4 id="mcetoc_1i5bg7jh66t3">原则</h4>
-<h4 id="mcetoc_1i5bg7jh66t4">线框与原型</h4>
-<h4 id="mcetoc_1i5bg7jh66t5">设计思维</h4>
-<h3 id="mcetoc_1i5a3o5o8209">服务</h3>
-<h3 id="mcetoc_1i5a3o5o820a">交互</h3>
-<h3 id="mcetoc_1i5a3o5o820b">用户测试</h3>
-<p>可用性测试</p>
-<p>A/B测试</p>
-<p>远程用户测试</p>
-<h2 id="mcetoc_1i5a3o5o820c">开发与发布</h2>
-<h3 id="mcetoc_1i5a3o5o820d">敏捷方法论</h3>
-<h4 id="scrum-basics" data-immersive-translate-walked="4ea295cc-8b13-4672-8b2a-5a4f8dffce49" data-immersive-translate-paragraph="1">Scrum </h4>
-<h4 id="mcetoc_1i5bg7jh66t6">看板</h4>
-<h3 id="mcetoc_1i5a3o5o820e">与工程师团队协作</h3>
-<h4 id="mcetoc_1i5bg7jh66t7">冲刺计划</h4>
-<h4 id="mcetoc_1i5bg7jh66t8">日常会议</h4>
-<h4 id="mcetoc_1i5bg7jh66t9">回顾</h4>
-<h4 id="mcetoc_1i5bg7jh66ta">MVP</h4>
-<h3 id="mcetoc_1i5a3o5o820f">入市策略</h3>
-<h4 id="mcetoc_1i5bg7jh66tb">推出计划</h4>
-<h4 id="mcetoc_1i5bg7jh66tc">营销策略</h4>
-<h4 id="mcetoc_1i5bg7jh66td">增长黑客</h4>
-<h3 id="mcetoc_1i5a3o5o820g">发布策略</h3>
-<h4 id="mcetoc_1i5bg7jh66te">功能切换</h4>
-<h4 id="mcetoc_1i5bg7jh66tf">阶段推出</h4>
-<h4 id="mcetoc_1i5bg7jh66tg">暗发布</h4>
-<h2 id="mcetoc_1i5a3o5o820h">指标</h2>
-<h3 id="mcetoc_1i5a3o5o820i">具体指标</h3>
-<h4 id="mcetoc_1i5bg7jh66th">日活用户</h4>
-<h4 id="mcetoc_1i5bg7jh66ti">月活用户</h4>
-<h4 id="mcetoc_1i5bg7jh66tj">转化率</h4>
-<h4 id="mcetoc_1i5bg7jh66tk">留存率</h4>
-<h4 id="mcetoc_1i5bg7jh66tl">流失率</h4>
-<h4 id="mcetoc_1i5bg7jh66tm">终身价值</h4>
-<h4 id="mcetoc_1i5bg7jh66tn">客获成本</h4>
-<h4 id="mcetoc_1i5bg7jh66to">北极星指标</h4>
-<h3 id="mcetoc_1i5a3o5o820j">数据驱动决策</h3>
-<h4 id="mcetoc_1i5bg7jh66tp">A/B测试</h4>
-<h4 id="mcetoc_1i5bg7jh66tq">群组分析</h4>
-<h4 id="mcetoc_1i5bg7jh66tr">预测分析</h4>
-<h3 id="mcetoc_1i5a3o5o820k">反馈循环</h3>
-<h2 id="mcetoc_1i5a3o5o820l">利益相关者管理</h2>
-<h3 id="mcetoc_1i5a3o5o820m">沟通</h3>
-<h4 id="mcetoc_1i5bg7jh66ts">人际</h4>
-<p>沟通技巧</p>
-<p>困难对话</p>
-<p>积极倾听</p>
-<p>冲突解决</p>
-<h4 id="mcetoc_1i5bg7jh66tt">业务</h4>
-<p>调整与买入</p>
-<p>展示影响</p>
-<h3 id="mcetoc_1i5a3o5o820n">管理</h3>
-<h2 id="mcetoc_1i5a3o5o820o">管理工具</h2>
-<h3 id="mcetoc_1i5a3o5o820p">项目管理</h3>
-<h2 id="mcetoc_1i5a3o5o820r">风险</h2>
-<h3 id="mcetoc_1i5a3o5o820s">识别</h3>
-<h4 id="mcetoc_1i5bg7jh66tu">识别技术</h4>
-<h4 id="mcetoc_1i5bg7jh66tv">登记册</h4>
-<h3 id="mcetoc_1i5a3o5o820t">评估</h3>
-<h4 id="mcetoc_1i5bg7jh66u0">定性评估</h4>
-<h4 id="mcetoc_1i5bg7jh66u1">定量评估</h4>
-<h3 id="mcetoc_1i5a3o5o820u">缓解</h3>
-<h4 id="mcetoc_1i5bg7jh66u2">缓解策略</h4>
-<h4 id="mcetoc_1i5bg7jh66u3">应急计划</h4>
-<h3 id="mcetoc_1i5a3o5o820v">监控与控制</h3>
-<h4 id="mcetoc_1i5bg7jh66u4">监控工具</h4>
-<h4 id="mcetoc_1i5bg7jh66u5">风险审核</h4>
-<h2 id="mcetoc_1i5a3o5o8210">高级话题</h2>
-<h3 id="mcetoc_1i5a3oi0o214">产品扩展</h3>
-<h4 id="mcetoc_1i5bg7jh66u6">增长策略</h4>
-<h4 id="mcetoc_1i5bg7jh66u7">国际化</h4>
-<h4 id="mcetoc_1i5bg7jh66u8">平台思维</h4>
-<h3 id="mcetoc_1i5a3oi0o215">产品组合管理</h3>
-<h3 id="mcetoc_1i5bg7jh66u9">分析</h3>
-<h4 id="mcetoc_1i5bg7jh66ua">预测分析</h4>
-<h4 id="mcetoc_1i5bg7jh66ub">机器学习</h4>
-<h4 id="mcetoc_1i5bg7jh66uc">AI</h4>
-<h3 id="mcetoc_1i5a3oi0o216">领导力与影响力</h3>
-<h4 id="mcetoc_1i5bg7jh66ud">构建、管理团队</h4>
-<h4 id="mcetoc_1i5bg7jh76ue">无权影响</h4>
-<h4 id="mcetoc_1i5bg7jh76uf">情商</h4>
-<p> </p>
-<p> </p>
 <p> </p>
             ]]>
         </content>
+    </entry>
+    <entry>
+        <title>Ionic</title>
+        <author>
+            <name>Yoruhiru</name>
+        </author>
+        <link href="https://yoru-hiru.github.io/fuck-coding/ionic.html"/>
+        <id>https://yoru-hiru.github.io/fuck-coding/ionic.html</id>
+
+        <updated>2024-09-20T17:04:30+08:00</updated>
+            <summary></summary>
+        <content></content>
     </entry>
 </feed>
